@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nardy_assets.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nardy down0000" x="0" y="0" width="387" height="586" frameX="0" frameY="-18" frameWidth="387" frameHeight="604"/>
+	<SubTexture name="nardy down0001" x="0" y="0" width="387" height="586" frameX="0" frameY="-18" frameWidth="387" frameHeight="604"/>
+	<SubTexture name="nardy down0002" x="427" y="0" width="375" height="604" frameX="-7" frameY="0" frameWidth="387" frameHeight="604"/>
+	<SubTexture name="nardy down0003" x="427" y="0" width="375" height="604" frameX="-7" frameY="0" frameWidth="387" frameHeight="604"/>
+	<SubTexture name="nardy down0004" x="427" y="0" width="375" height="604" frameX="-7" frameY="0" frameWidth="387" frameHeight="604"/>
+	<SubTexture name="nardy down0005" x="427" y="0" width="375" height="604" frameX="-7" frameY="0" frameWidth="387" frameHeight="604"/>
+	<SubTexture name="nardy down0006" x="427" y="0" width="375" height="604" frameX="-7" frameY="0" frameWidth="387" frameHeight="604"/>
+	<SubTexture name="nardy down0007" x="427" y="0" width="375" height="604" frameX="-7" frameY="0" frameWidth="387" frameHeight="604"/>
+	<SubTexture name="nardy down0008" x="427" y="0" width="375" height="604" frameX="-7" frameY="0" frameWidth="387" frameHeight="604"/>
+	<SubTexture name="nardy down0009" x="427" y="0" width="375" height="604" frameX="-7" frameY="0" frameWidth="387" frameHeight="604"/>
+	<SubTexture name="nardy down0010" x="427" y="0" width="375" height="604" frameX="-7" frameY="0" frameWidth="387" frameHeight="604"/>
+	<SubTexture name="nardy down0011" x="427" y="0" width="375" height="604" frameX="-7" frameY="0" frameWidth="387" frameHeight="604"/>
+	<SubTexture name="nardy down0012" x="427" y="0" width="375" height="604" frameX="-7" frameY="0" frameWidth="387" frameHeight="604"/>
+	<SubTexture name="nardy down0013" x="427" y="0" width="375" height="604" frameX="-7" frameY="0" frameWidth="387" frameHeight="604"/>
+	<SubTexture name="nardy idle0000" x="842" y="0" width="285" height="623" frameX="-18" frameY="-9" frameWidth="303" frameHeight="633"/>
+	<SubTexture name="nardy idle0001" x="842" y="0" width="285" height="623" frameX="-18" frameY="-9" frameWidth="303" frameHeight="633"/>
+	<SubTexture name="nardy idle0002" x="1167" y="0" width="301" height="621" frameX="-1" frameY="-11" frameWidth="303" frameHeight="633"/>
+	<SubTexture name="nardy idle0003" x="1167" y="0" width="301" height="621" frameX="-1" frameY="-11" frameWidth="303" frameHeight="633"/>
+	<SubTexture name="nardy idle0004" x="1508" y="0" width="301" height="627" frameX="0" frameY="-5" frameWidth="303" frameHeight="633"/>
+	<SubTexture name="nardy idle0005" x="1508" y="0" width="301" height="627" frameX="0" frameY="-5" frameWidth="303" frameHeight="633"/>
+	<SubTexture name="nardy idle0006" x="0" y="667" width="294" height="630" frameX="-7" frameY="-2" frameWidth="303" frameHeight="633"/>
+	<SubTexture name="nardy idle0007" x="0" y="667" width="294" height="630" frameX="-7" frameY="-2" frameWidth="303" frameHeight="633"/>
+	<SubTexture name="nardy idle0008" x="334" y="667" width="288" height="633" frameX="-12" frameY="0" frameWidth="303" frameHeight="633"/>
+	<SubTexture name="nardy idle0009" x="334" y="667" width="288" height="633" frameX="-12" frameY="0" frameWidth="303" frameHeight="633"/>
+	<SubTexture name="nardy idle0010" x="334" y="667" width="288" height="633" frameX="-12" frameY="0" frameWidth="303" frameHeight="633"/>
+	<SubTexture name="nardy idle0011" x="334" y="667" width="288" height="633" frameX="-12" frameY="0" frameWidth="303" frameHeight="633"/>
+	<SubTexture name="nardy idle0012" x="334" y="667" width="288" height="633" frameX="-12" frameY="0" frameWidth="303" frameHeight="633"/>
+	<SubTexture name="nardy idle0013" x="334" y="667" width="288" height="633" frameX="-12" frameY="0" frameWidth="303" frameHeight="633"/>
+	<SubTexture name="nardy left0000" x="662" y="667" width="379" height="627" frameX="0" frameY="0" frameWidth="380" frameHeight="627"/>
+	<SubTexture name="nardy left0001" x="662" y="667" width="379" height="627" frameX="0" frameY="0" frameWidth="380" frameHeight="627"/>
+	<SubTexture name="nardy left0002" x="1081" y="667" width="369" height="626" frameX="-11" frameY="-1" frameWidth="380" frameHeight="627"/>
+	<SubTexture name="nardy left0003" x="1081" y="667" width="369" height="626" frameX="-11" frameY="-1" frameWidth="380" frameHeight="627"/>
+	<SubTexture name="nardy left0004" x="1081" y="667" width="369" height="626" frameX="-11" frameY="-1" frameWidth="380" frameHeight="627"/>
+	<SubTexture name="nardy left0005" x="1081" y="667" width="369" height="626" frameX="-11" frameY="-1" frameWidth="380" frameHeight="627"/>
+	<SubTexture name="nardy left0006" x="1081" y="667" width="369" height="626" frameX="-11" frameY="-1" frameWidth="380" frameHeight="627"/>
+	<SubTexture name="nardy left0007" x="1081" y="667" width="369" height="626" frameX="-11" frameY="-1" frameWidth="380" frameHeight="627"/>
+	<SubTexture name="nardy left0008" x="1081" y="667" width="369" height="626" frameX="-11" frameY="-1" frameWidth="380" frameHeight="627"/>
+	<SubTexture name="nardy left0009" x="1081" y="667" width="369" height="626" frameX="-11" frameY="-1" frameWidth="380" frameHeight="627"/>
+	<SubTexture name="nardy left0010" x="1081" y="667" width="369" height="626" frameX="-11" frameY="-1" frameWidth="380" frameHeight="627"/>
+	<SubTexture name="nardy left0011" x="1081" y="667" width="369" height="626" frameX="-11" frameY="-1" frameWidth="380" frameHeight="627"/>
+	<SubTexture name="nardy left0012" x="1081" y="667" width="369" height="626" frameX="-11" frameY="-1" frameWidth="380" frameHeight="627"/>
+	<SubTexture name="nardy left0013" x="1081" y="667" width="369" height="626" frameX="-11" frameY="-1" frameWidth="380" frameHeight="627"/>
+	<SubTexture name="nardy right0000" x="1490" y="667" width="289" height="610" frameX="0" frameY="-2" frameWidth="289" frameHeight="612"/>
+	<SubTexture name="nardy right0001" x="1490" y="667" width="289" height="610" frameX="0" frameY="-2" frameWidth="289" frameHeight="612"/>
+	<SubTexture name="nardy right0002" x="0" y="1340" width="273" height="612" frameX="-9" frameY="0" frameWidth="289" frameHeight="612"/>
+	<SubTexture name="nardy right0003" x="0" y="1340" width="273" height="612" frameX="-9" frameY="0" frameWidth="289" frameHeight="612"/>
+	<SubTexture name="nardy right0004" x="0" y="1340" width="273" height="612" frameX="-9" frameY="0" frameWidth="289" frameHeight="612"/>
+	<SubTexture name="nardy right0005" x="0" y="1340" width="273" height="612" frameX="-9" frameY="0" frameWidth="289" frameHeight="612"/>
+	<SubTexture name="nardy right0006" x="0" y="1340" width="273" height="612" frameX="-9" frameY="0" frameWidth="289" frameHeight="612"/>
+	<SubTexture name="nardy right0007" x="0" y="1340" width="273" height="612" frameX="-9" frameY="0" frameWidth="289" frameHeight="612"/>
+	<SubTexture name="nardy right0008" x="0" y="1340" width="273" height="612" frameX="-9" frameY="0" frameWidth="289" frameHeight="612"/>
+	<SubTexture name="nardy right0009" x="0" y="1340" width="273" height="612" frameX="-9" frameY="0" frameWidth="289" frameHeight="612"/>
+	<SubTexture name="nardy right0010" x="0" y="1340" width="273" height="612" frameX="-9" frameY="0" frameWidth="289" frameHeight="612"/>
+	<SubTexture name="nardy right0011" x="0" y="1340" width="273" height="612" frameX="-9" frameY="0" frameWidth="289" frameHeight="612"/>
+	<SubTexture name="nardy right0012" x="0" y="1340" width="273" height="612" frameX="-9" frameY="0" frameWidth="289" frameHeight="612"/>
+	<SubTexture name="nardy right0013" x="0" y="1340" width="273" height="612" frameX="-9" frameY="0" frameWidth="289" frameHeight="612"/>
+	<SubTexture name="nardy up0000" x="313" y="1340" width="328" height="626"/>
+	<SubTexture name="nardy up0001" x="313" y="1340" width="328" height="626"/>
+	<SubTexture name="nardy up0002" x="681" y="1340" width="316" height="616" frameX="-10" frameY="-10" frameWidth="328" frameHeight="626"/>
+	<SubTexture name="nardy up0003" x="681" y="1340" width="316" height="616" frameX="-10" frameY="-10" frameWidth="328" frameHeight="626"/>
+	<SubTexture name="nardy up0004" x="681" y="1340" width="316" height="616" frameX="-10" frameY="-10" frameWidth="328" frameHeight="626"/>
+	<SubTexture name="nardy up0005" x="681" y="1340" width="316" height="616" frameX="-10" frameY="-10" frameWidth="328" frameHeight="626"/>
+	<SubTexture name="nardy up0006" x="681" y="1340" width="316" height="616" frameX="-10" frameY="-10" frameWidth="328" frameHeight="626"/>
+	<SubTexture name="nardy up0007" x="681" y="1340" width="316" height="616" frameX="-10" frameY="-10" frameWidth="328" frameHeight="626"/>
+	<SubTexture name="nardy up0008" x="681" y="1340" width="316" height="616" frameX="-10" frameY="-10" frameWidth="328" frameHeight="626"/>
+	<SubTexture name="nardy up0009" x="681" y="1340" width="316" height="616" frameX="-10" frameY="-10" frameWidth="328" frameHeight="626"/>
+	<SubTexture name="nardy up0010" x="681" y="1340" width="316" height="616" frameX="-10" frameY="-10" frameWidth="328" frameHeight="626"/>
+	<SubTexture name="nardy up0011" x="681" y="1340" width="316" height="616" frameX="-10" frameY="-10" frameWidth="328" frameHeight="626"/>
+	<SubTexture name="nardy up0012" x="681" y="1340" width="316" height="616" frameX="-10" frameY="-10" frameWidth="328" frameHeight="626"/>
+	<SubTexture name="nardy up0013" x="681" y="1340" width="316" height="616" frameX="-10" frameY="-10" frameWidth="328" frameHeight="626"/>
+</TextureAtlas>
