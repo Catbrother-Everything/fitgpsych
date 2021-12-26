@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dave.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dave down0000" x="10" y="10" width="697" height="818"/>
+	<SubTexture name="dave down0001" x="717" y="10" width="697" height="818"/>
+	<SubTexture name="dave down0002" x="1424" y="10" width="697" height="818"/>
+	<SubTexture name="dave idle0000" x="2131" y="10" width="697" height="818"/>
+	<SubTexture name="dave idle0001" x="2838" y="10" width="697" height="818"/>
+	<SubTexture name="dave idle0002" x="10" y="838" width="697" height="818"/>
+	<SubTexture name="dave idle0003" x="717" y="838" width="697" height="818"/>
+	<SubTexture name="dave idle0004" x="1424" y="838" width="697" height="818"/>
+	<SubTexture name="dave left0000" x="2131" y="838" width="697" height="818"/>
+	<SubTexture name="dave left0001" x="2838" y="838" width="697" height="818"/>
+	<SubTexture name="dave left0002" x="10" y="1666" width="697" height="818"/>
+	<SubTexture name="dave right0000" x="717" y="1666" width="697" height="818"/>
+	<SubTexture name="dave right0001" x="1424" y="1666" width="697" height="818"/>
+	<SubTexture name="dave right0002" x="2131" y="1666" width="697" height="818"/>
+	<SubTexture name="dave up0000" x="2838" y="1666" width="697" height="818"/>
+	<SubTexture name="dave up0001" x="10" y="2494" width="697" height="818"/>
+	<SubTexture name="dave up0002" x="717" y="2494" width="697" height="818"/>
+</TextureAtlas>

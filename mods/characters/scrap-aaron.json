@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-353,
+				-93
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Scrap Aaron Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-76,
+				-136
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Scrap Aaron Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-17,
+				453
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Scrap Aaron Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-28,
+				-164
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Scrap Aaron Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Scrap Aaron Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Scrap_Aaron_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "scraps-aaron",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

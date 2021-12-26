@@ -1,0 +1,67 @@
+{
+	"songs": [
+		[
+			"Gears",
+			"aaron",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Bittersweet",
+			"charlie",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Sweet-And-Sour",
+			"en-and-charlie",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Boss-Fight",
+			"nova",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Blocks",
+			"block-guy",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "studio",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Break and entry",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
