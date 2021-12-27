@@ -19,7 +19,7 @@
 			]
 		],
 		[
-			"Sweet-And-Sour",
+			"Sweet And Sour",
 			"en-and-charlie",
 			[
 				146,
@@ -28,7 +28,7 @@
 			]
 		],
 		[
-			"Boss-Fight",
+			"Boss Fight",
 			"nova",
 			[
 				146,
@@ -47,15 +47,15 @@
 		]
 	],
 	"hideFreeplay": false,
-	"weekBackground": "studio",
-	"difficulties": "",
+	"weekBackground": "stage",
+	"difficulties": "Hard, Superstar",
 	"weekCharacters": [
 		"dad",
 		"bf",
 		"gf"
 	],
-	"storyName": "Break and entry",
-	"weekName": "Custom Week",
+	"storyName": "The Break-in",
+	"weekName": "Studios1",
 	"freeplayColor": [
 		146,
 		113,

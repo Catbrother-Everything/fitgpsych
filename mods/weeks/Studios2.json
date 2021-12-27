@@ -1,0 +1,67 @@
+{
+	"songs": [
+		[
+			"Scraps",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Rhythm",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Awesome",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"J",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Angelic",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard, Superstar",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "The Escape",
+	"weekName": "Studios2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "Studios1",
+	"startUnlocked": false
+}
