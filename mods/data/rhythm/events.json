@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "studio",
+		"player1": "bf",
+		"player2": "nard",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Regeneration",
+						"500",
+						"25"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-morning",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Rhythm"
+	}
+}

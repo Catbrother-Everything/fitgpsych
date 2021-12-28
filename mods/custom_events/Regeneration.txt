@@ -1,0 +1,5 @@
+Adds to the player's health
+the desired amount.
+
+Value 1: How much gained.
+Value 2: The amount of times I had sex with your mother.
