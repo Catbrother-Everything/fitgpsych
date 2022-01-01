@@ -41,7 +41,7 @@
 			"loop": false,
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Block Guy LEFT",
+			"name": "Block Guy RIGHT",
 			"indices": []
 		},
 		{

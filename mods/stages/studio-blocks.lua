@@ -7,7 +7,7 @@ function onCreate()
 
 	makeAnimatedLuaSprite('BGBoppers', 'BGBoppers', 400, 105);
 	addAnimationByPrefix('BGBoppers','bop','bganim',24,false)
-	setScrollFactor('BGBoppers', 1,0, 1,0);
+	setScrollFactor('BGBoppers', 1.0, 1.0);
 	scaleObject('BGBoppers', 1.1, 1.1);
 	
 	makeLuaSprite('galaxiibgfrontblocks', 'galaxiibgfrontblocks', -600, -550);

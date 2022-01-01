@@ -3013,7 +3013,7 @@
 		],
 		"song": "Rhythm",
 		"validScore": true,
-		"stage": "studio",
+		"stage": "alley",
 		"needsVoices": true,
 		"bpm": 200,
 		"speed": 3.1
