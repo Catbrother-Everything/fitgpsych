@@ -1,0 +1,67 @@
+{
+	"songs": [
+		[
+			"Odd",
+			"en-night",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Galaxii",
+			"nova",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Ugh",
+			"block-guy",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"UNDERSWAP",
+			"rabbitdud",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Nightfall",
+			"charlie",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Fuckery for free",
+	"weekName": "StudiosS",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
