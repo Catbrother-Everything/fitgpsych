@@ -48,7 +48,7 @@
 	],
 	"hideFreeplay": false,
 	"weekBackground": "stage",
-	"difficulties": "",
+	"difficulties": "Hard, Superstar",
 	"weekCharacters": [
 		"dad",
 		"bf",
