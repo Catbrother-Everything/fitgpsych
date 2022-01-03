@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Chug",
+			"charlie-chugjug",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Meow",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Self-Doubt",
+			"jigga",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard, Superstar",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Jigga Wanted This Badly",
+	"weekName": "StudiosB",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
