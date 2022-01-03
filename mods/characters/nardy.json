@@ -1,66 +1,66 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "nardy idle"
+			"fps": 24,
+			"name": "nardy idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				96,
 				-1
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "nardy left"
+			"fps": 24,
+			"name": "nardy left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				80,
 				-21
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "nardy down"
+			"fps": 24,
+			"name": "nardy down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				81,
 				-7
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
-			"name": "nardy up"
+			"fps": 24,
+			"name": "nardy up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-33,
 				-16
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "nardy right"
+			"fps": 24,
+			"name": "nardy right",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/nardy_assets",
 	"position": [
 		0,
-		350
+		0
 	],
 	"healthicon": "nardy",
 	"flip_x": false,

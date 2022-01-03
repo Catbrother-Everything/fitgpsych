@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MP_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mp down0000" x="10" y="10" width="323" height="323"/>
+	<SubTexture name="mp down0001" x="343" y="10" width="323" height="323"/>
+	<SubTexture name="mp down0002" x="676" y="10" width="323" height="323"/>
+	<SubTexture name="mp idle0000" x="1009" y="10" width="323" height="323"/>
+	<SubTexture name="mp idle0001" x="1342" y="10" width="323" height="323"/>
+	<SubTexture name="mp idle0002" x="1675" y="10" width="323" height="323"/>
+	<SubTexture name="mp idle0003" x="10" y="343" width="323" height="323"/>
+	<SubTexture name="mp idle0004" x="10" y="343" width="323" height="323"/>
+	<SubTexture name="mp idle0005" x="343" y="343" width="323" height="323"/>
+	<SubTexture name="mp idle0006" x="676" y="343" width="323" height="323"/>
+	<SubTexture name="mp idle0007" x="1009" y="343" width="323" height="323"/>
+	<SubTexture name="mp idle0008" x="10" y="343" width="323" height="323"/>
+	<SubTexture name="mp idle0009" x="10" y="343" width="323" height="323"/>
+	<SubTexture name="mp left0000" x="1342" y="343" width="323" height="323"/>
+	<SubTexture name="mp left0001" x="1675" y="343" width="323" height="323"/>
+	<SubTexture name="mp left0002" x="10" y="676" width="323" height="323"/>
+	<SubTexture name="mp right0000" x="343" y="676" width="323" height="323"/>
+	<SubTexture name="mp right0001" x="676" y="676" width="323" height="323"/>
+	<SubTexture name="mp right0002" x="1009" y="676" width="323" height="323"/>
+	<SubTexture name="mp up0000" x="1342" y="676" width="323" height="323"/>
+	<SubTexture name="mp up0001" x="1675" y="676" width="323" height="323"/>
+	<SubTexture name="mp up0002" x="10" y="1009" width="323" height="323"/>
+</TextureAtlas>
