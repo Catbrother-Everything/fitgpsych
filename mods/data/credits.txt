@@ -1,0 +1,39 @@
+FITG - Coding
+Nard::nard::Solo Psych Port Coder::link::89E4FF
+
+FITG - Art
+CharlieTsun::charlietsun::Main Artist::link::F87AC1
+Vy::vy::Additional Artist::link::CC99FF
+
+FITG - Music
+KamilFirma::kamilfirma::Main Composer::link::FF1E98
+Parrot::parrot::Composed something terrible::link::FF646D
+
+FITG - Voice Acting
+Neo::neo::Mr. Seven's Voice Actor::link::4AFF82
+HoneyApple::honeyapple::Charlie, En and Nova's Chromatic Scale::link::946680
+Vy::vy::Nard's Chromatic Scale::link::CC99FF
+CharlieTsun::charlietsun::Nathan's Chromatic Scale::link::F87AC1
+DaveDotCom::parrot::Dave's Chromatic Scale::link::9147FF
+
+FITG - Charting
+Parrot::parrot::Main Charter::link::FF646D
+Sweezo::sweezo::Additional Charter::link::DDDDDD
+
+FITG - Story & Writing
+CharlieTsun::charlietsun::Main Writer::link::F87AC1
+Parrot::parrot::Additional Writer::link::FF646D
+Nard::nard::Additional Writer::link::89E4FF
+
+FITG - Characters
+Fandoms::fandoms::Owner of Aaron::link::FFD395
+CharlieTsun::charlietsun::Owner of Charlie::link::F87AC1
+Madelynmisericorde::madelynmisericorde::Owner of Enfield::link::888888
+Fai::fai::Owner of Nova::link::9B5FFF
+Parrot::parrot::Owner of Block Guy, Nathan and Hacz::link::FF646D
+Nard::nard::Owner of Nard::link::89E4FF
+Neo::neo::Owner of Mr. Seven::link::4AFF82
+KamilFirma::kamilfirma::Owner of Rabbitdud::link::FF1E98
+DaveDotCom::parrot::Owner of Dave::link::9147FF
+JiggaOver9000::jiggaover9000::Owner of Jigga::link::6F6FFF
+MP::mp::Owner of MP::link::FFFFFF
