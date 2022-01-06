@@ -20,7 +20,7 @@ end
 -- noteType: The note type string/tag
 -- isSustainNote: If it's a hold note, can be either true or false
 function goodNoteHit(id, noteData, noteType, isSustainNote)
-	if noteType == 'Gears Note' then
+	if noteType == 'Gears Note' and getProperty('songSpeed') < 10.0 then
 		setProperty('songSpeed',getProperty('songSpeed') + 0.1)
 	end
 end
@@ -28,7 +28,7 @@ end
 -- Called after the note miss calculations
 -- Player missed a note by letting it go offscreen
 function noteMiss(id, noteData, noteType, isSustainNote)
-	if noteType == 'Gears Note' then
+	if noteType == 'Gears Note' and getProperty('songSpeed') >= 0.3 then
 		addMisses(-1)
 		addScore(10)
 		setProperty('songSpeed',getProperty('songSpeed') - 0.2)
