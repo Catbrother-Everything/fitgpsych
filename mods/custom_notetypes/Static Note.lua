@@ -76,42 +76,52 @@ end
 function onUpdate(elapsed)
 	if hitten == 1 then
 		addLuaSprite('virgin', true);
+		setObjectCamera('virgin','camOther')
 	end
 
 	if hitten == 2 then
 		addLuaSprite('virgin2', true);
+		setObjectCamera('virgin2','camOther')
 	end
 
 	if hitten == 3 then
 		addLuaSprite('virgin3', true);
+		setObjectCamera('virgin3','camOther')
 	end
 
 	if hitten == 4 then
 		addLuaSprite('virgin4', true);
+		setObjectCamera('virgin4','camOther')
 	end
 
 	if hitten == 5 then
 		addLuaSprite('virgin5', true);
+		setObjectCamera('virgin5','camOther')
 	end
 
 	if hitten == 6 then
 		addLuaSprite('virgin6', true);
+		setObjectCamera('virgin6','camOther')
 	end
 
 	if hitten == 7 then
 		addLuaSprite('virgin7', true);
+		setObjectCamera('virgin7','camOther')
 	end
 
 	if hitten == 8 then
 		addLuaSprite('virgin8', true);
+		setObjectCamera('virgin8','camOther')
 	end
 
 	if hitten == 9 then
 		addLuaSprite('virgin9', true);
+		setObjectCamera('virgin9','camOther')
 	end
 
 	if hitten == 10 then
 		addLuaSprite('virgin10', true);
+		setObjectCamera('virgin10','camOther')
 	end
 
 	if hitten >= 11 then
