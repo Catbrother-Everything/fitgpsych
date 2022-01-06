@@ -20,51 +20,8 @@ function onCreate()
 	setScrollFactor('virgin', 0.0, 0.0);
 	addAnimationByPrefix('virgin','bop','fnafstatic',24,true)
 	scaleObject('virgin', 1.2, 1.2);
-
-	makeAnimatedLuaSprite('virgin2', 'virginity_assets', -113, -70);
-	setScrollFactor('virgin2', 0.0, 0.0);
-	addAnimationByPrefix('virgin2','bop','fnafstatic',24,true)
-	scaleObject('virgin2', 1.2, 1.2);
-
-	makeAnimatedLuaSprite('virgin3', 'virginity_assets', -113, -70);
-	setScrollFactor('virgin3', 0.0, 0.0);
-	addAnimationByPrefix('virgin3','bop','fnafstatic',24,true)
-	scaleObject('virgin3', 1.2, 1.2);
-
-	makeAnimatedLuaSprite('virgin4', 'virginity_assets', -113, -70);
-	setScrollFactor('virgin4', 0.0, 0.0);
-	addAnimationByPrefix('virgin4','bop','fnafstatic',24,true)
-	scaleObject('virgin4', 1.2, 1.2);
-
-	makeAnimatedLuaSprite('virgin5', 'virginity_assets', -113, -70);
-	setScrollFactor('virgin5', 0.0, 0.0);
-	addAnimationByPrefix('virgin5','bop','fnafstatic',24,true)
-	scaleObject('virgin5', 1.2, 1.2);
-
-	makeAnimatedLuaSprite('virgin6', 'virginity_assets', -113, -70);
-	setScrollFactor('virgin6', 0.0, 0.0);
-	addAnimationByPrefix('virgin6','bop','fnafstatic',24,true)
-	scaleObject('virgin6', 1.2, 1.2);
-
-	makeAnimatedLuaSprite('virgin7', 'virginity_assets', -113, -70);
-	setScrollFactor('virgin7', 0.0, 0.0);
-	addAnimationByPrefix('virgin7','bop','fnafstatic',24,true)
-	scaleObject('virgin7', 1.2, 1.2);
-
-	makeAnimatedLuaSprite('virgin8', 'virginity_assets', -113, -70);
-	setScrollFactor('virgin8', 0.0, 0.0);
-	addAnimationByPrefix('virgin8','bop','fnafstatic',24,true)
-	scaleObject('virgin8', 1.2, 1.2);
-
-	makeAnimatedLuaSprite('virgin9', 'virginity_assets', -113, -70);
-	setScrollFactor('virgin9', 0.0, 0.0);
-	addAnimationByPrefix('virgin9','bop','fnafstatic',24,true)
-	scaleObject('virgin9', 1.2, 1.2);
-
-	makeAnimatedLuaSprite('virgin10', 'virginity_assets', -113, -70);
-	setScrollFactor('virgin10', 0.0, 0.0);
-	addAnimationByPrefix('virgin10','bop','fnafstatic',24,true)
-	scaleObject('virgin10', 1.2, 1.2);
+	doTweenAlpha('1','virgin',0,0.00001,'linear')
+	setObjectCamera('virgin','camOther')
 end
 
 function noteMiss(id, noteData, noteType, isSustainNote)
@@ -75,53 +32,44 @@ end
 
 function onUpdate(elapsed)
 	if hitten == 1 then
-		addLuaSprite('virgin', true);
-		setObjectCamera('virgin','camOther')
+		addLuaSprite('virgin',true)
+		doTweenAlpha('1','virgin',0.1,0.5,'linear')
 	end
 
 	if hitten == 2 then
-		addLuaSprite('virgin2', true);
-		setObjectCamera('virgin2','camOther')
+		doTweenAlpha('1','virgin',0.2,0.5,'linear')
 	end
 
 	if hitten == 3 then
-		addLuaSprite('virgin3', true);
-		setObjectCamera('virgin3','camOther')
+		doTweenAlpha('1','virgin',0.3,0.5,'linear')
 	end
 
 	if hitten == 4 then
-		addLuaSprite('virgin4', true);
-		setObjectCamera('virgin4','camOther')
+		doTweenAlpha('1','virgin',0.4,0.5,'linear')
 	end
 
 	if hitten == 5 then
-		addLuaSprite('virgin5', true);
-		setObjectCamera('virgin5','camOther')
+		doTweenAlpha('1','virgin',0.5,0.5,'linear')
 	end
 
 	if hitten == 6 then
-		addLuaSprite('virgin6', true);
-		setObjectCamera('virgin6','camOther')
+		doTweenAlpha('1','virgin',0.6,0.5,'linear')
 	end
 
 	if hitten == 7 then
-		addLuaSprite('virgin7', true);
-		setObjectCamera('virgin7','camOther')
+		doTweenAlpha('1','virgin',0.7,0.5,'linear')
 	end
 
 	if hitten == 8 then
-		addLuaSprite('virgin8', true);
-		setObjectCamera('virgin8','camOther')
+		doTweenAlpha('1','virgin',0.8,0.5,'linear')
 	end
 
 	if hitten == 9 then
-		addLuaSprite('virgin9', true);
-		setObjectCamera('virgin9','camOther')
+		doTweenAlpha('1','virgin',0.85,0.5,'linear')
 	end
 
 	if hitten == 10 then
-		addLuaSprite('virgin10', true);
-		setObjectCamera('virgin10','camOther')
+		doTweenAlpha('1','virgin',0.9,0.5,'linear')
 	end
 
 	if hitten >= 11 then
