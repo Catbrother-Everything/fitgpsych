@@ -1,39 +1,41 @@
 FITG - Coding
-Nard::nard::Solo Psych Port Coder::link::89E4FF
+Nard::nard::Solo Psych Port Coder::https://twitter.com/bruh_nard::89E4FF
+Parrot::parrot::Coder of the OG mod::https://twitter.com/CatbrotherEvery::FF646D
+Vy::vy::Additional Coding::https://twitter.com/Itz_Vy_::CC99FF
 
 FITG - Art
-CharlieTsun::charlietsun::Main Artist::link::F87AC1
-Vy::vy::Additional Artist::link::CC99FF
+CharlieTsun::charlietsun::https://twitter.com/CharlieTsun::link::F87AC1
+Vy::vy::Additional Artist::https://twitter.com/Itz_Vy_::CC99FF
 
 FITG - Music
-KamilFirma::kamilfirma::Main Composer::link::FF1E98
-Parrot::parrot::Composed something terrible::link::FF646D
+KamilFirma::kamilfirma::Main Composer::https://twitter.com/KamilFirma::FF1E98
+Parrot::parrot::Composed something terrible::https://twitter.com/CatbrotherEvery::FF646D
 
 FITG - Voice Acting
-Neo::neo::Mr. Seven's Voice Actor::link::4AFF82
-HoneyApple::honeyapple::Charlie, En and Nova's Chromatic Scale::link::946680
-Vy::vy::Nard's Chromatic Scale::link::CC99FF
-CharlieTsun::charlietsun::Nathan's Chromatic Scale::link::F87AC1
-DaveDotCom::parrot::Dave's Chromatic Scale::link::9147FF
+Neo::neo::Mr. Seven's Voice Actor::https://twitter.com/NeoTheAverage::4AFF82
+HoneyApple::honeyapple::Charlie, En and Nova's Chromatic Scale::https://twitter.com/honeyapple_xml::946680
+Vy::vy::Nard's Chromatic Scale::https://twitter.com/Itz_Vy_::CC99FF
+CharlieTsun::charlietsun::Nathan's Chromatic Scale::https://twitter.com/CharlieTsun::F87AC1
+DaveDotCom::parrot::Dave's Chromatic Scale::https://twitter.com/DavedotComLIVE::9147FF
 
 FITG - Charting
-Parrot::parrot::Main Charter::link::FF646D
-Sweezo::sweezo::Additional Charter::link::DDDDDD
+Parrot::parrot::Main Charter::https://twitter.com/CatbrotherEvery::FF646D
+Sweezo::sweezo::Additional Charter::https://twitter.com/Sweezo_SFM::DDDDDD
 
 FITG - Story & Writing
-CharlieTsun::charlietsun::Main Writer::link::F87AC1
-Parrot::parrot::Additional Writer::link::FF646D
-Nard::nard::Additional Writer::link::89E4FF
+CharlieTsun::charlietsun::Main Writer::https://twitter.com/CharlieTsun::F87AC1
+Parrot::parrot::Additional Writer and Original Idea::https://twitter.com/CatbrotherEvery::FF646D
+Nard::nard::Additional Writer::https://twitter.com/bruh_nard::89E4FF
 
 FITG - Characters
-Fandoms::fandoms::Owner of Aaron::link::FFD395
-CharlieTsun::charlietsun::Owner of Charlie::link::F87AC1
-Madelynmisericorde::madelynmisericorde::Owner of Enfield::link::888888
-Fai::fai::Owner of Nova::link::9B5FFF
-Parrot::parrot::Owner of Block Guy, Nathan and Hacz::link::FF646D
-Nard::nard::Owner of Nard::link::89E4FF
-Neo::neo::Owner of Mr. Seven::link::4AFF82
-KamilFirma::kamilfirma::Owner of Rabbitdud::link::FF1E98
-DaveDotCom::parrot::Owner of Dave::link::9147FF
-JiggaOver9000::jiggaover9000::Owner of Jigga::link::6F6FFF
-MP::mp::Owner of MP::link::FFFFFF
+Fandoms::fandoms::Owner of Aaron::https://www.instagram.com/fandomsrsin/::FFD395
+CharlieTsun::charlietsun::Owner of Charlie::https://twitter.com/CharlieTsun::F87AC1
+Madelynmisericorde::madelynmisericorde::Owner of Enfield::https://www.youtube.com/channel/UC_j4HR38VfLSEmWW-0zg5jA::888888
+Fai::fai::Owner of Nova::https://www.instagram.com/nova_galaxii/?utm_medium=copy_link::9B5FFF
+Parrot::parrot::Owner of Block Guy, Nathan and Hacz::https://twitter.com/CatbrotherEvery::FF646D
+Nard::nard::Owner of Nard::https://twitter.com/bruh_nard::89E4FF
+Neo::neo::Owner of Mr. Seven::https://twitter.com/NeoTheAverage::4AFF82
+KamilFirma::kamilfirma::Owner of Rabbitdud::https://twitter.com/KamilFirma::FF1E98
+DaveDotCom::parrot::Owner of Dave::https://twitter.com/DavedotComLIVE::9147FF
+JiggaOver9000::jiggaover9000::Owner of Jigga::https://twitter.com/JiggaOver9000::6F6FFF
+MP::mp::Owner of MP::https://twitter.com/FnafRfan::FFFFFF
