@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				11,
-				22
+				24
 			],
-			"loop": false,
-			"anim": "singLEFT",
 			"fps": 24,
-			"name": "NovaLeft",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "NovaLeft"
 		},
 		{
+			"loop": false,
+			"offsets": [
+				-32,
+				0
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "NovaDown"
+		},
+		{
+			"loop": false,
 			"offsets": [
 				-32,
 				-2
 			],
-			"loop": false,
-			"anim": "singDOWN",
 			"fps": 24,
-			"name": "NovaDown",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-2,
-				-34
-			],
-			"loop": false,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "NovaUp",
-			"indices": []
+			"indices": [],
+			"name": "NovaUp"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-14,
-				-22
+				-20
 			],
-			"loop": false,
-			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "NovaRight",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "NovaRight"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"anim": "idle",
 			"fps": 24,
-			"name": "NovaIdle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "NovaIdle"
 		}
 	],
 	"no_antialiasing": false,
