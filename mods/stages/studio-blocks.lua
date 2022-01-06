@@ -1,5 +1,8 @@
 function onCreate()
 	-- background shit
+	makeLuaSprite('Fjc_you', 'studio/Fjc_you', -600, -530);
+	setScrollFactor('Fjc_you', 1.0, 1.0);
+	scaleObject('Fjc_you', 1.1, 1.1);
 
 	makeLuaSprite('galaxiibgbackblocks', 'studio/galaxiibgbackblocks', -600, -550);
 	setScrollFactor('galaxiibgbackblocks', 1.0, 1.0);
@@ -29,6 +32,7 @@ function onCreate()
 	setScrollFactor('FGBoppers', 1.0, 1.0);
 	scaleObject('FGBoppers', 1.3, 1.3);
 	
+	addLuaSprite('Fjc_you', true);
 	addLuaSprite('galaxiibgbackblocks', false);
 	addLuaSprite('BGBoppers', false);
 	addLuaSprite('galaxiibgfrontblocks', false);
