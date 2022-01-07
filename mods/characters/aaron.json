@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
-				102,
+				103,
 				-79
 			],
-			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "AaronLeft",
-			"indices": []
+			"indices": [],
+			"name": "AaronLeft"
 		},
 		{
-			"offsets": [
-				246,
-				-275
-			],
 			"loop": false,
+			"offsets": [
+				226,
+				-265
+			],
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "AaronDown",
-			"indices": []
+			"indices": [],
+			"name": "AaronDown"
 		},
 		{
-			"offsets": [
-				196,
-				58
-			],
 			"loop": false,
-			"anim": "singUP",
+			"offsets": [
+				199,
+				66
+			],
 			"fps": 24,
-			"name": "AaronUp",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "AaronUp"
 		},
 		{
+			"loop": false,
 			"offsets": [
-				-14,
+				6,
 				-111
 			],
-			"loop": false,
-			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "AaronRight",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "AaronRight"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"anim": "idle",
 			"fps": 24,
-			"name": "AaronIdle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "AaronIdle"
 		}
 	],
 	"no_antialiasing": false,

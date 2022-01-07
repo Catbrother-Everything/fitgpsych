@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				37,
-				0
-			],
 			"loop": false,
+			"offsets": [
+				38,
+				1
+			],
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "CharlieLeft",
-			"indices": []
+			"indices": [],
+			"name": "CharlieLeft"
 		},
 		{
-			"offsets": [
-				-16,
-				-10
-			],
 			"loop": false,
+			"offsets": [
+				-15,
+				-8
+			],
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "CharlieDown",
-			"indices": []
+			"indices": [],
+			"name": "CharlieDown"
 		},
 		{
-			"offsets": [
-				-25,
-				-5
-			],
 			"loop": false,
+			"offsets": [
+				24,
+				-4
+			],
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "CharlieUp",
-			"indices": []
+			"indices": [],
+			"name": "CharlieUp"
 		},
 		{
-			"offsets": [
-				10,
-				0
-			],
 			"loop": false,
-			"anim": "singRIGHT",
+			"offsets": [
+				7,
+				-1
+			],
 			"fps": 24,
-			"name": "CharlieRight",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "CharlieRight"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"anim": "idle",
 			"fps": 24,
-			"name": "CharlieIdle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "CharlieIdle"
 		}
 	],
 	"no_antialiasing": false,

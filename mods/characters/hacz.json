@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				22,
-				-30
-			],
 			"loop": false,
+			"offsets": [
+				23,
+				-29
+			],
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "hacz left new",
-			"indices": []
+			"indices": [],
+			"name": "hacz left new"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
-				-156
+				-266
 			],
-			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "hacz down new",
-			"indices": []
+			"indices": [],
+			"name": "hacz down new"
 		},
 		{
-			"offsets": [
-				146,
-				58
-			],
 			"loop": false,
-			"anim": "singUP",
+			"offsets": [
+				145,
+				57
+			],
 			"fps": 24,
-			"name": "hacz up new",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "hacz up new"
 		},
 		{
+			"loop": false,
 			"offsets": [
-				29,
+				31,
 				0
 			],
-			"loop": false,
-			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "hacz right new",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "hacz right new"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"anim": "idle",
 			"fps": 24,
-			"name": "hacz idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "hacz idle"
 		}
 	],
 	"no_antialiasing": false,

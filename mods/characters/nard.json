@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				62,
-				94
+				107
 			],
-			"loop": false,
-			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Nard Left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Nard Left"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-84,
-				-156
+				-159
 			],
-			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Nard Down",
-			"indices": []
+			"indices": [],
+			"name": "Nard Down"
 		},
 		{
-			"offsets": [
-				124,
-				75
-			],
 			"loop": false,
-			"anim": "singUP",
+			"offsets": [
+				114,
+				86
+			],
 			"fps": 24,
-			"name": "Nard Up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "Nard Up"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				143,
-				74
+				86
 			],
-			"loop": false,
-			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Nard Right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Nard Right"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"anim": "idle",
 			"fps": 24,
-			"name": "Nard Idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "Nard Idle"
 		}
 	],
 	"no_antialiasing": false,

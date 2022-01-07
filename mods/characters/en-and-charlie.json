@@ -1,103 +1,103 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				-20,
-				0
-			],
 			"loop": false,
+			"offsets": [
+				13,
+				5
+			],
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "En Left",
-			"indices": []
+			"indices": [],
+			"name": "En Left"
 		},
 		{
-			"offsets": [
-				-26,
-				2
-			],
 			"loop": false,
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "En Down",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-30,
-				0
-			],
-			"loop": false,
-			"anim": "singUP",
-			"fps": 24,
-			"name": "En Up",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-30,
-				2
-			],
-			"loop": false,
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "En Right",
-			"indices": []
-		},
-		{
 			"offsets": [
 				0,
-				0
+				17
 			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "En Down"
+		},
+		{
 			"loop": false,
+			"offsets": [
+				11,
+				17
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "En Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				12
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "En Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-1
+			],
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "Duet Idle",
-			"indices": []
+			"indices": [],
+			"name": "Duet Idle"
 		},
 		{
-			"offsets": [
-				-313,
-				46
-			],
 			"loop": false,
+			"offsets": [
+				-137,
+				24
+			],
+			"fps": 24,
 			"anim": "singLEFT-alt",
-			"fps": 24,
-			"name": "Charlie Left",
-			"indices": []
+			"indices": [],
+			"name": "Charlie Left"
 		},
 		{
-			"offsets": [
-				-299,
-				28
-			],
 			"loop": false,
+			"offsets": [
+				-139,
+				21
+			],
+			"fps": 24,
 			"anim": "singDOWN-alt",
-			"fps": 24,
-			"name": "Charlie Down",
-			"indices": []
+			"indices": [],
+			"name": "Charlie Down"
 		},
 		{
-			"offsets": [
-				-333,
-				57
-			],
 			"loop": false,
+			"offsets": [
+				-138,
+				21
+			],
+			"fps": 24,
 			"anim": "singUP-alt",
-			"fps": 24,
-			"name": "Charlie Up",
-			"indices": []
+			"indices": [],
+			"name": "Charlie Up"
 		},
 		{
-			"offsets": [
-				-315,
-				57
-			],
 			"loop": false,
-			"anim": "singRIGHT-alt",
+			"offsets": [
+				-134,
+				21
+			],
 			"fps": 24,
-			"name": "Charlie Right",
-			"indices": []
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Charlie Right"
 		}
 	],
 	"no_antialiasing": false,
