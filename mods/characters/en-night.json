@@ -2,7 +2,7 @@
 	"animations": [
 		{
 			"offsets": [
-				37,
+				1,
 				0
 			],
 			"loop": false,
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				-16,
-				-10
+				0,
+				0
 			],
 			"loop": false,
 			"anim": "singDOWN",
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				25,
-				-5
+				0,
+				0
 			],
 			"loop": false,
 			"anim": "singUP",
@@ -35,7 +35,7 @@
 		},
 		{
 			"offsets": [
-				10,
+				0,
 				0
 			],
 			"loop": false,
