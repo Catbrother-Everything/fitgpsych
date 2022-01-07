@@ -47,12 +47,12 @@
 		]
 	],
 	"hideFreeplay": false,
-	"weekBackground": "stage",
+	"weekBackground": "studiospart1",
 	"difficulties": "Hard, Superstar",
 	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
+		"",
+		"",
+		""
 	],
 	"storyName": "The Break-in",
 	"weekName": "Studios1",

@@ -47,12 +47,12 @@
 		]
 	],
 	"hideFreeplay": false,
-	"weekBackground": "stage",
+	"weekBackground": "studiospart2",
 	"difficulties": "Hard, Superstar",
 	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
+		"",
+		"",
+		""
 	],
 	"storyName": "The Escape",
 	"weekName": "Studios2",

@@ -29,12 +29,12 @@
 		]
 	],
 	"hideFreeplay": false,
-	"weekBackground": "stage",
+	"weekBackground": "studioshalloween",
 	"difficulties": "Hard, Superstar",
 	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
+		"",
+		"",
+		""
 	],
 	"storyName": "Dave The Racist Gamer",
 	"weekName": "StudiosH",
