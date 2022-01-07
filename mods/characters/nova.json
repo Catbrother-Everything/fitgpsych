@@ -1,59 +1,136 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				11,
+				19,
 				24
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "NovaLeft"
+			"fps": 24,
+			"name": "NovaLeft",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-32,
+				-30,
 				0
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "NovaDown"
+			"fps": 24,
+			"name": "NovaDown",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-32,
+				-31,
 				-2
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singUP",
-			"indices": [],
-			"name": "NovaUp"
+			"fps": 24,
+			"name": "NovaUp",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-14,
 				-20
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "NovaRight"
+			"fps": 24,
+			"name": "NovaRight",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "idle",
+			"fps": 24,
+			"name": "NovaIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
 			"indices": [],
-			"name": "NovaIdle"
+			"name": "NovaMissLeft"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "NovaMissDown"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "NovaMissUp"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "NovaMissRight"
+		},
+		{
+			"offsets": [
+				-107,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "NovaDeadLoop"
+		},
+		{
+			"offsets": [
+				-30,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "NovaDeadConfirm"
+		},
+		{
+			"offsets": [
+				-117,
+				-68
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "NovaDIes"
 		}
 	],
 	"no_antialiasing": false,
@@ -70,8 +147,8 @@
 		206
 	],
 	"camera_position": [
-		0,
-		0
+		100,
+		250
 	],
 	"sing_duration": 6.1,
 	"scale": 1
