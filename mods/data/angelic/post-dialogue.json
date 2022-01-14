@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf-galaxii",
+			"boxState": "normal",
+			"expression": "awkward",
+			"text": "Woah, you're good at this!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nathan",
+			"boxState": "normal",
+			"expression": "amused",
+			"text": "Thanks!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nathan",
+			"boxState": "normal",
+			"expression": "explaining",
+			"text": "I've been messing around with using smaller devices to mess with the real world, thought I'd test it here."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-galaxii",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Well, it definitely worked."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-galaxii",
+			"boxState": "normal",
+			"expression": "surprised",
+			"text": "That was super hard!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nathan",
+			"boxState": "normal",
+			"expression": "explaining",
+			"text": "That's good to know! Now I know I should be ready for a fight with real intruders..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nathan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey, how would you guys feel about coming back to my house and hanging out while I fix the projector?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nathan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We should avoid charlie though, she doesn't seem to happy with you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf-galaxii",
+			"boxState": "normal",
+			"expression": "awkward",
+			"text": "Yeah..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-galaxii",
+			"boxState": "normal",
+			"expression": "awkward",
+			"text": "Hold on..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-galaxii",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Do you live with charlie?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nathan",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Oh yeah, shes my sister."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-galaxii",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Wait... so is she an angel too? She doesn't act like one..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nathan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nah, if anything shes a demon!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-galaxii",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Anyway, we should get going now!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nathan",
+			"boxState": "normal",
+			"expression": "explaining",
+			"text": "Yeah! Let me just pick up the projector parts..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-galaxii",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "The end. Make sure to check out the extras menu to enable meme songs and side stories!"
+		}
+	]
+}
