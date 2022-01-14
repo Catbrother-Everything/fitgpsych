@@ -4,7 +4,7 @@ Parrot::parrot::Coder of the OG mod::https://twitter.com/CatbrotherEvery::FF646D
 Vy::vy::Additional Coding::https://twitter.com/Itz_Vy_::CC99FF
 
 FITG - Art
-CharlieTsun::charlietsun::https://twitter.com/CharlieTsun::link::F87AC1
+CharlieTsun::charlietsun::Main Artist::https://twitter.com/CharlieTsun::F87AC1
 Vy::vy::Additional Artist::https://twitter.com/Itz_Vy_::CC99FF
 
 FITG - Music
@@ -13,7 +13,7 @@ Parrot::parrot::Composed something terrible::https://twitter.com/CatbrotherEvery
 
 FITG - Voice Acting
 Neo::neo::Mr. Seven's Voice Actor::https://twitter.com/NeoTheAverage::4AFF82
-HoneyApple::honeyapple::Charlie, En and Nova's Chromatic Scale::https://twitter.com/honeyapple_xml::946680
+HoneyApple::honeyapple::Charlie, En and Nova's Chromatic Scale::https://twitter.com/4PPLEC0RE::946680
 Vy::vy::Nard's Chromatic Scale::https://twitter.com/Itz_Vy_::CC99FF
 CharlieTsun::charlietsun::Nathan's Chromatic Scale::https://twitter.com/CharlieTsun::F87AC1
 DaveDotCom::parrot::Dave's Chromatic Scale::https://twitter.com/DavedotComLIVE::9147FF
