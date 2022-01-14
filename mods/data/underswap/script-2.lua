@@ -17,6 +17,13 @@ function onUpdate(elapsed)
 	frick = getProperty('dad.y')
 	freak = getProperty('boyfriend.y')
 
+	if curStep == 12 then
+		noteTweenAlpha('fuck1','0',0,0.5,'linear')
+		noteTweenAlpha('fuck2','1',0,0.6,'linear')
+		noteTweenAlpha('fuck3','2',0,0.7,'linear')
+		noteTweenAlpha('fuck4','3',0,0.8,'linear')
+	end
+
 	if horizontalMoment == 0 then
 		setProperty('dad.x', fuck - 70 * elapsed)
 		if fuck <= -5 then
