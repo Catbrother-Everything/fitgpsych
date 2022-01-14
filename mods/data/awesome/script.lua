@@ -6,8 +6,6 @@ function onCreate()
 	scaleObject('Fuck', 1.0, 1.0);
 
 	addLuaSprite('Fuck', false);
-	setProperty('dad.x',60)
-	setProperty('dad.y',-130)
 end
 
 function onBeatHit()

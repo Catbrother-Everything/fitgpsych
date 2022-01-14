@@ -75,7 +75,7 @@ end
 
 function onCreate()
 	setProperty('dad.x',0)
-	setProperty('dad.y',-550)
+	setProperty('dad.y',-350)
 end
 
 function onSongStart()
