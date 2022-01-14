@@ -1,15 +1,6 @@
 {
 	"songs": [
 		[
-			"Odd",
-			"en-night",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
 			"Galaxii",
 			"nova",
 			[
@@ -30,7 +21,7 @@
 	],
 	"hideFreeplay": false,
 	"weekBackground": "stage",
-	"difficulties": "Hard, Superstar",
+	"difficulties": "Hard",
 	"weekCharacters": [
 		"dad",
 		"bf",
