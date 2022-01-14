@@ -27,7 +27,7 @@ function onSkipDialogue(count)
 end
 
 function onEndSong()
-	if not allowEnd and isStoryMode and not seenCutscene then
+	if not allowEnd and isStoryMode then
 		setProperty('inCutscene', true);
 		startDialogue('post-dialogue', 'breakfast');
 		allowEnd = true;
