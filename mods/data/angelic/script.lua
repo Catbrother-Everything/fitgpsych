@@ -139,10 +139,28 @@ function onStepHit()
         noteTweenAlpha("NoteAlpha3", 2, -1, 0.1, cubeInOut)
         noteTweenAlpha("NoteAlpha4", 3, -1, 0.1, cubeInOut)
 	end
-	if curStep == 1151 then
-		noteTweenX("NoteMove9", 4, 1100, 0.1, circIn)
-		noteTweenX("NoteMove10", 7, 650, 0.1, circIn)
-		noteTweenX("NoteMove11", 5, 950, 0.1, circIn)
-		noteTweenX("NoteMove12", 6, 800, 0.1, circIn)
+	if curStep == 1200 then
+		noteTweenX("NoteMove29", 4, 1100, 0.1, circIn)
+		noteTweenX("NoteMove30", 7, 650, 0.1, circIn)
+		noteTweenX("NoteMove31", 5, 950, 0.1, circIn)
+		noteTweenX("NoteMove32", 6, 800, 0.1, circIn)
+	end
+    if curStep == 1219 then
+		noteTweenX("NoteMove33", 4, 650, 0.1, circIn)
+        noteTweenX("NoteMove34", 5, 800, 0.1, circIn)
+		noteTweenX("NoteMove35", 6, 950, 0.1, circIn)
+		noteTweenX("NoteMove36", 7, 1100, 0.1, circIn)
+	end
+    if curStep == 1248 then
+		noteTweenX("NoteMove37", 4, 1100, 0.1, circIn)
+		noteTweenX("NoteMove38", 7, 650, 0.1, circIn)
+		noteTweenX("NoteMove39", 5, 950, 0.1, circIn)
+		noteTweenX("NoteMove40", 6, 800, 0.1, circIn)
+	end
+    if curStep == 1270 then
+		noteTweenX("NoteMove41", 4, 650, 0.1, circIn)
+        noteTweenX("NoteMove42", 5, 800, 0.1, circIn)
+		noteTweenX("NoteMove43", 6, 950, 0.1, circIn)
+		noteTweenX("NoteMove44", 7, 1100, 0.1, circIn)
 	end
 end

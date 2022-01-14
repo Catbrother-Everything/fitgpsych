@@ -65,17 +65,38 @@
 		},
 		{
 			"expression": "idle",
-			"text": "Look...ugh, whatever, all that matters is we win, he's going to bleed out and die.",
+			"text": "Look...ugh, whatever.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "idle",
+			"text": "Nard, can you take care of him?",
 			"boxState": "normal",
 			"speed": 0.05,
 			"portrait": "nathan"
 		},
 		{
 			"expression": "exist",
-			"text": "Nard and Mr. Seven quickly vanish after Nard says 'No, no, I can take care of him.'.",
+			"text": "Nard and Mr. Seven quickly vanish",
 			"boxState": "normal",
 			"speed": 0.05,
 			"portrait": "none"
+		},
+		{
+			"expression": "confused",
+			"text": "What the...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "explaining",
+			"text": "Oh yeah, Nard can travel through dimensions!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
 		},
 		{
 			"expression": "confused",

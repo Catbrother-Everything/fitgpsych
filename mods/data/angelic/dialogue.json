@@ -83,6 +83,48 @@
 			"boxState": "normal",
 			"speed": 0.05,
 			"portrait": "nathan"
+		},
+		{
+			"expression": "explaining",
+			"text": "By the way, would you mind if I get into something more comfortable?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "excited",
+			"text": "Yeah, go ahead!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "angel",
+			"text": "Ah, much better.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "confused",
+			"text": "You're an angel???",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "angel",
+			"text": "Yep.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "excited",
+			"text": "That's awesome!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
 		}
 	]
 }
