@@ -1,11 +1,23 @@
 {
+	"storyName": "The Break-in",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "studiospart1",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Gears",
 			"aaron",
 			[
-				146,
-				113,
+				155,
+				53,
 				253
 			]
 		],
@@ -13,8 +25,8 @@
 			"Bittersweet",
 			"charlie",
 			[
-				146,
-				113,
+				155,
+				53,
 				253
 			]
 		],
@@ -22,8 +34,8 @@
 			"Sweet And Sour",
 			"en-and-charlie",
 			[
-				146,
-				113,
+				155,
+				53,
 				253
 			]
 		],
@@ -31,8 +43,8 @@
 			"Boss Fight",
 			"nova",
 			[
-				146,
-				113,
+				155,
+				53,
 				253
 			]
 		],
@@ -40,28 +52,16 @@
 			"Blocks",
 			"block-guy",
 			[
-				146,
-				113,
+				155,
+				53,
 				253
 			]
 		]
 	],
-	"hideFreeplay": false,
-	"weekBackground": "studiospart1",
-	"difficulties": "Hard",
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
-	"storyName": "The Break-in",
-	"weekName": "Studios1",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"hideStoryMode": false,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"weekName": "Studios1"
 }

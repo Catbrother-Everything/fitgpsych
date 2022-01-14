@@ -1,103 +1,103 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				362,
 				8
 			],
-			"loop": false,
-			"anim": "singLEFT",
 			"fps": 24,
-			"name": "CharlieLeft0",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "CharlieLeft0"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				105,
 				-288
 			],
-			"loop": false,
-			"anim": "singDOWN",
 			"fps": 24,
-			"name": "CharlieDown0",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "CharlieDown0"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-134,
 				311
 			],
-			"loop": false,
-			"anim": "singUP",
 			"fps": 24,
-			"name": "CharlieUp0",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "CharlieUp0"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-168,
 				-111
 			],
-			"loop": false,
-			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "CharlieRight0",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "CharlieRight0"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"anim": "idle",
 			"fps": 24,
-			"name": "CharlieIdle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "CharlieIdle"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-134,
 				311
 			],
-			"loop": false,
-			"anim": "singUPmiss",
 			"fps": 24,
-			"name": "CharlieMISSUp",
-			"indices": []
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "CharlieMISSUp"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-168,
 				-111
 			],
-			"loop": false,
-			"anim": "singRIGHTmiss",
 			"fps": 24,
-			"name": "CharlieMISSRight",
-			"indices": []
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "CharlieMISSRight"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				362,
 				8
 			],
-			"loop": false,
-			"anim": "singLEFTmiss",
 			"fps": 24,
-			"name": "CharlieMISSLeft",
-			"indices": []
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "CharlieMISSLeft"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				105,
 				-288
 			],
-			"loop": false,
-			"anim": "singDOWNmiss",
 			"fps": 24,
-			"name": "CharlieMISSDown",
-			"indices": []
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "CharlieMISSDown"
 		}
 	],
 	"no_antialiasing": false,
@@ -110,7 +110,7 @@
 	"flip_x": false,
 	"healthbar_colors": [
 		175,
-		102,
+		122,
 		206
 	],
 	"camera_position": [

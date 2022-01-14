@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				48,
 				-39
 			],
-			"loop": false,
-			"anim": "singLEFT",
 			"fps": 24,
-			"name": "FreddyLeft",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "FreddyLeft"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-9,
 				-73
 			],
-			"loop": false,
-			"anim": "singDOWN",
 			"fps": 24,
-			"name": "FreddyDown",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "FreddyDown"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				21,
 				8
 			],
-			"loop": false,
-			"anim": "singUP",
 			"fps": 24,
-			"name": "FreddyUp",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "FreddyUp"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-50,
 				-45
 			],
-			"loop": false,
-			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "FreddyRight",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "FreddyRight"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"anim": "idle",
 			"fps": 24,
-			"name": "FreddyIdle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "FreddyIdle"
 		}
 	],
 	"no_antialiasing": false,
@@ -65,9 +65,9 @@
 	"healthicon": "freddy",
 	"flip_x": false,
 	"healthbar_colors": [
-		175,
-		102,
-		206
+		135,
+		60,
+		20
 	],
 	"camera_position": [
 		0,

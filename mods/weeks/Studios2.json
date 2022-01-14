@@ -1,67 +1,67 @@
 {
+	"storyName": "The Escape",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "studiospart2",
+	"weekBefore": "Studios1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Scraps",
 			"scraps-aaron",
 			[
-				146,
-				113,
-				253
+				255,
+				175,
+				75
 			]
 		],
 		[
 			"Rhythm",
 			"nard",
 			[
-				146,
-				113,
-				253
+				255,
+				175,
+				75
 			]
 		],
 		[
 			"Awesome",
 			"seven",
 			[
-				146,
-				113,
-				253
+				255,
+				175,
+				75
 			]
 		],
 		[
 			"J",
 			"rabbitdud",
 			[
-				146,
-				113,
-				253
+				255,
+				175,
+				75
 			]
 		],
 		[
 			"Angelic",
 			"nathan",
 			[
-				146,
-				113,
-				253
+				255,
+				175,
+				75
 			]
 		]
 	],
-	"hideFreeplay": false,
-	"weekBackground": "studiospart2",
-	"difficulties": "Hard",
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
-	"storyName": "The Escape",
-	"weekName": "Studios2",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"hideStoryMode": false,
-	"weekBefore": "Studios1",
-	"startUnlocked": false
+	"weekName": "Studios2"
 }

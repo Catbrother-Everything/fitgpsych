@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "dave left",
-			"indices": []
+			"indices": [],
+			"name": "dave left"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "dave down",
-			"indices": []
+			"indices": [],
+			"name": "dave down"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "dave up",
-			"indices": []
+			"indices": [],
+			"name": "dave up"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "dave right",
-			"indices": []
+			"indices": [],
+			"name": "dave right"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"anim": "idle",
 			"fps": 24,
-			"name": "dave idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "dave idle"
 		}
 	],
 	"no_antialiasing": false,
@@ -65,9 +65,9 @@
 	"healthicon": "dave",
 	"flip_x": false,
 	"healthbar_colors": [
-		175,
-		102,
-		206
+		215,
+		255,
+		255
 	],
 	"camera_position": [
 		0,

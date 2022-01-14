@@ -1,31 +1,31 @@
 {
-	"songs": [
-		[
-			"Odd",
-			"en-night",
-			[
-				146,
-				113,
-				253
-			]
-		]
-	],
+	"storyName": "Later That Night...",
+	"difficulties": "Hard",
 	"hideFreeplay": false,
 	"weekBackground": "studiospart1alternative",
-	"difficulties": "Hard",
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
-	"storyName": "Later That Night...",
-	"weekName": "StudiosOdd",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"startUnlocked": true,
 	"hideStoryMode": false,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"songs": [
+		[
+			"Odd",
+			"en-night",
+			[
+				26,
+				13,
+				75
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "StudiosOdd"
 }

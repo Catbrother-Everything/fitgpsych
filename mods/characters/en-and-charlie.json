@@ -1,103 +1,103 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				13,
 				5
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "En Left"
+			"fps": 24,
+			"name": "En Left",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				17
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "En Down"
+			"fps": 24,
+			"name": "En Down",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				11,
 				17
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singUP",
-			"indices": [],
-			"name": "En Up"
+			"fps": 24,
+			"name": "En Up",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-28,
 				12
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "En Right"
+			"fps": 24,
+			"name": "En Right",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				1,
 				-1
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "idle",
-			"indices": [],
-			"name": "Duet Idle"
+			"fps": 24,
+			"name": "Duet Idle",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-137,
 				24
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singLEFT-alt",
-			"indices": [],
-			"name": "Charlie Left"
+			"fps": 24,
+			"name": "Charlie Left",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-139,
 				21
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singDOWN-alt",
-			"indices": [],
-			"name": "Charlie Down"
+			"fps": 24,
+			"name": "Charlie Down",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-138,
 				21
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singUP-alt",
-			"indices": [],
-			"name": "Charlie Up"
+			"fps": 24,
+			"name": "Charlie Up",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-134,
 				21
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singRIGHT-alt",
-			"indices": [],
-			"name": "Charlie Right"
+			"fps": 24,
+			"name": "Charlie Right",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -109,9 +109,9 @@
 	"healthicon": "en-and-charlie",
 	"flip_x": false,
 	"healthbar_colors": [
-		175,
-		102,
-		206
+		135,
+		60,
+		0
 	],
 	"camera_position": [
 		0,

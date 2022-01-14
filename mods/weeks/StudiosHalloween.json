@@ -1,49 +1,49 @@
 {
+	"storyName": "Dave The Racist Gamer",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "studioshalloween",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Dotcom",
 			"dave",
 			[
-				146,
-				113,
-				253
+				40,
+				40,
+				100
 			]
 		],
 		[
 			"Gaming",
 			"dave",
 			[
-				146,
-				113,
-				253
+				40,
+				40,
+				100
 			]
 		],
 		[
 			"Hacks",
 			"hacz",
 			[
-				146,
-				113,
-				253
+				40,
+				40,
+				100
 			]
 		]
 	],
-	"hideFreeplay": false,
-	"weekBackground": "studioshalloween",
-	"difficulties": "Hard",
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
-	"storyName": "Dave The Racist Gamer",
-	"weekName": "StudiosHalloween",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"hideStoryMode": false,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"weekName": "StudiosHalloween"
 }

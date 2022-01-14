@@ -1,114 +1,114 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "",
+			"loop": false,
 			"fps": 24,
-			"name": "Idle",
-			"indices": []
+			"anim": "",
+			"indices": [],
+			"name": "Idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				1,
 				0
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "JiggaLeft",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "JiggaLeft"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "Idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				81,
 				0
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "JiggaDown",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "JiggaDown"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				121,
 				0
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "JiggaUp",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "JiggaUp"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "JiggaRight",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "JiggaRight"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				-2
 			],
-			"anim": "singLEFTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "LeftMISS",
-			"indices": []
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "LeftMISS"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				98,
 				-2
 			],
-			"anim": "singDOWNmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "DownMISS",
-			"indices": []
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "DownMISS"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				83,
 				-2
 			],
-			"anim": "singUPmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "UpMISS",
-			"indices": []
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "UpMISS"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				-2
 			],
-			"anim": "singRIGHTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "RightMISS",
-			"indices": []
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "RightMISS"
 		}
 	],
 	"no_antialiasing": false,
@@ -120,7 +120,7 @@
 	"healthicon": "jigga",
 	"flip_x": false,
 	"healthbar_colors": [
-		49,
+		120,
 		176,
 		209
 	],

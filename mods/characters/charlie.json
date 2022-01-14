@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				38,
 				1
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "CharlieLeft"
+			"fps": 24,
+			"name": "CharlieLeft",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-15,
 				-8
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "CharlieDown"
+			"fps": 24,
+			"name": "CharlieDown",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				24,
 				-4
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singUP",
-			"indices": [],
-			"name": "CharlieUp"
+			"fps": 24,
+			"name": "CharlieUp",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				7,
 				-1
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "CharlieRight"
+			"fps": 24,
+			"name": "CharlieRight",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "idle",
-			"indices": [],
-			"name": "CharlieIdle"
+			"fps": 24,
+			"name": "CharlieIdle",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -65,9 +65,9 @@
 	"healthicon": "charlie",
 	"flip_x": false,
 	"healthbar_colors": [
-		175,
-		102,
-		206
+		255,
+		162,
+		86
 	],
 	"camera_position": [
 		0,

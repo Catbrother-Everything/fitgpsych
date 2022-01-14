@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "mp idle"
+			"fps": 24,
+			"name": "mp idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				13,
 				9
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "mp left"
+			"fps": 24,
+			"name": "mp left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-3,
 				8
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "mp down"
+			"fps": 24,
+			"name": "mp down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-10,
 				11
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
-			"name": "mp up"
+			"fps": 24,
+			"name": "mp up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-13,
 				7
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "mp right"
+			"fps": 24,
+			"name": "mp right",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -65,9 +65,9 @@
 	"healthicon": "sky",
 	"flip_x": false,
 	"healthbar_colors": [
-		175,
-		102,
-		206
+		255,
+		255,
+		255
 	],
 	"camera_position": [
 		0,

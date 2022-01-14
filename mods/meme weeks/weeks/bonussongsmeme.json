@@ -1,31 +1,31 @@
 {
-	"songs": [
-		[
-			"Underswap",
-			"rabbitdud",
-			[
-				146,
-				113,
-				253
-			]
-		]
-	],
+	"storyName": "Wiw",
+	"difficulties": "",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
-	"difficulties": "",
-	"weekCharacters": [
-		"",
-		"bf",
-		"gf"
-	],
-	"storyName": "Wiw",
-	"weekName": "UnderSwap",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"startUnlocked": true,
 	"hideStoryMode": true,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"songs": [
+		[
+			"Underswap",
+			"rabbitdud",
+			[
+				255,
+				60,
+				235
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "UnderSwap"
 }

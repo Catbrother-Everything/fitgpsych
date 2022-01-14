@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "Nathan Idle"
+			"fps": 24,
+			"name": "Nathan Idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				97,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "Nathan Shoot"
+			"fps": 24,
+			"name": "Nathan Shoot",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				97,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "Nathan Shoot"
+			"fps": 24,
+			"name": "Nathan Shoot",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				97,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
-			"name": "Nathan Shoot"
+			"fps": 24,
+			"name": "Nathan Shoot",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				97,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "Nathan Shoot"
+			"fps": 24,
+			"name": "Nathan Shoot",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -62,7 +62,7 @@
 		0,
 		0
 	],
-	"healthicon": "dad",
+	"healthicon": "nathan",
 	"flip_x": false,
 	"healthbar_colors": [
 		175,
