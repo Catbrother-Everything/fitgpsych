@@ -1,5 +1,5 @@
 function onCreate()
-	makeAnimatedLuaSprite('nathan','characters/Angelic_Nathan',0,-350);
+	makeAnimatedLuaSprite('nathan','characters/Angelic_Nathan',0,-550);
 	addAnimationByPrefix('nathan','Idle','NathanIdle',24,false);
 	setScrollFactor('nathan', 1.0, 1.0);
 	scaleObject('nathan', 1.0, 1.0);
@@ -23,7 +23,7 @@ function onUpdate(elapsed)
 		removeLuaSprite('nathan',true);
 		addLuaSprite('nard',true);
 		setProperty('dad.x',0);
-		setProperty('dad.y',-350);
+		setProperty('dad.y',-550);
 		triggerEvent('Change Character', 1, 'angelic-nathan');
 	end
 end
