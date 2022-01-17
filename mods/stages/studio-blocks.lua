@@ -17,20 +17,20 @@ function onCreate()
 	setScrollFactor('galaxiibgfrontblocks', 1.0, 1.0);
 	scaleObject('galaxiibgfrontblocks', 1.1, 1.1);
 
-	makeAnimatedLuaSprite('MGBoppers', 'studio/MGBoppers', 20, 150);
+	makeAnimatedLuaSprite('MGBoppers', 'studio/MGBoppers', 150, 260);
 	addAnimationByPrefix('MGBoppers','bop','mganim',24,false)
 	setScrollFactor('MGBoppers', 1.0, 1.0);
-	scaleObject('MGBoppers', 1.3, 1.3);
+	scaleObject('MGBoppers', 1.1, 1.1);
 	
 	makeAnimatedLuaSprite('AaronDead', 'studio/AaronDead', -175, 610);
 	addAnimationByPrefix('AaronDead','bop','AaronBop',24,false)
 	setScrollFactor('AaronDead', 1.0, 1.0);
 	scaleObject('AaronDead', 1.1, 1.1);
 
-	makeAnimatedLuaSprite('FGBoppers', 'studio/FGBoppers', -500, 550);
+	makeAnimatedLuaSprite('FGBoppers', 'studio/FGBoppers', -500, 450);
 	addAnimationByPrefix('FGBoppers','bop','fganim',24,false)
-	setScrollFactor('FGBoppers', 1.0, 1.0);
-	scaleObject('FGBoppers', 1.3, 1.3);
+	setScrollFactor('FGBoppers', 2.0, 0.9);
+	scaleObject('FGBoppers', 1.6, 1.6);
 	
 	addLuaSprite('Fjc_you', true);
 	addLuaSprite('galaxiibgbackblocks', false);
