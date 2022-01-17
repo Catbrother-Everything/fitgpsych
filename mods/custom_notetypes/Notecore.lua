@@ -18,6 +18,6 @@ end
 
 function noteMiss(id, noteData, noteType, isSustainNote)
 	if noteType == 'Notecore' then
-		setProperty('health', getProperty('health') - 0.9)
+		setProperty('health', getProperty('health') - 1)
 	end
 end
