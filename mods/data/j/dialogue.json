@@ -44,7 +44,7 @@
 		},
 		{
 			"expression": "scared",
-			"text": "Oh my god Nathan, what the hell did you do?",
+			"text": "Oh my God Nathan, what the hell did you do?",
 			"boxState": "normal",
 			"speed": 0.05,
 			"portrait": "bf-galaxii"
@@ -79,13 +79,13 @@
 		},
 		{
 			"expression": "exist",
-			"text": "Nard and Mr. Seven quickly vanish",
+			"text": "Nard and Mr. Seven quickly vanish in a snap of fingers.",
 			"boxState": "normal",
 			"speed": 0.05,
 			"portrait": "none"
 		},
 		{
-			"expression": "confused",
+			"expression": "awkward",
 			"text": "What the...",
 			"boxState": "normal",
 			"speed": 0.05,
@@ -93,7 +93,7 @@
 		},
 		{
 			"expression": "explaining",
-			"text": "Oh yeah, Nard can travel through dimensions!",
+			"text": "Don't ask me, he always comes up with a new excuse whenever we ask him.",
 			"boxState": "normal",
 			"speed": 0.05,
 			"portrait": "nathan"
