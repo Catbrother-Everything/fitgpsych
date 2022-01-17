@@ -3,7 +3,6 @@ local horizontalMoment = math.random(0,1)
 local verticalMoment = math.random(0,1)
 
 function onCreate()
-	triggerEvent('Alt Idle Animation', 'gf', '-alt');
 	setProperty('dad.x', 275)
 	setProperty('dad.y', 90)
 	setProperty('gf.x',350)
@@ -18,6 +17,10 @@ end
 function onUpdate(elapsed)
 	fuck = getProperty('dad.x')
 	frick = getProperty('dad.y')
+
+	if curStep == 0 then
+		triggerEvent('Alt Idle Animation', 'gf', '-alt');
+	end
 
 	if horizontalMoment == 0 then
 		setProperty('dad.x', fuck - 70 * elapsed)
