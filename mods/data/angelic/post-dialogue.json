@@ -72,7 +72,7 @@
 		},
 		{
 			"expression": "confused",
-			"text": "Do you live with charlie?",
+			"text": "Do you live with Charlie?",
 			"boxState": "normal",
 			"speed": 0.05,
 			"portrait": "bf-galaxii"
@@ -111,13 +111,6 @@
 			"boxState": "normal",
 			"speed": 0.05,
 			"portrait": "nathan"
-		},
-		{
-			"expression": "exist",
-			"text": "The end. Make sure to check out the extras menu to enable meme songs and side stories!",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "none"
 		}
 	]
 }
