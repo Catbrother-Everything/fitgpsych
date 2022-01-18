@@ -51,7 +51,7 @@
 		},
 		{
 			"expression": "confused",
-			"text": "We should avoid charlie though, she doesn't seem too happy with you.",
+			"text": "We should avoid Charlie though, she doesn't seem too happy with you.",
 			"boxState": "normal",
 			"speed": 0.05,
 			"portrait": "nathan"
