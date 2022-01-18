@@ -1,4 +1,4 @@
-
+local songEnd = false
 local xx = 520;
 local yy = 0;
 local xx2 = 1000;
@@ -69,7 +69,6 @@ function onUpdate()
     else
         triggerEvent('Camera Follow Pos','','')
     end
-    
 end
 
 
@@ -83,19 +82,19 @@ function onSongStart()
 end
 
 function onStepHit()
-	if curStep == 64 then
+	if curStep == 64 and not songEnd then
 		noteTweenX("NoteMove1", 0, 50, 0.1, circIn)
         noteTweenX("NoteMove2", 1, 200, 0.1, circIn)
 		noteTweenX("NoteMove3", 2, 350, 0.1, circIn)
 		noteTweenX("NoteMove4", 3, 500, 0.1, circIn)
 	end
-	if curStep == 128 then
+	if curStep == 128 and not songEnd then
 		noteTweenX("NoteMove5", 4, 650, 0.1, circIn)
         noteTweenX("NoteMove6", 5, 800, 0.1, circIn)
 		noteTweenX("NoteMove7", 6, 950, 0.1, circIn)
 		noteTweenX("NoteMove8", 7, 1100, 0.1, circIn)
 	end
-	if curStep == 608 then
+	if curStep == 608 and not songEnd then
 		noteTweenX("NoteMove29", 0, 50, 0.1, circIn)
         noteTweenX("NoteMove30", 1, 200, 0.1, circIn)
 		noteTweenX("NoteMove31", 2, 350, 0.1, circIn)
@@ -117,7 +116,7 @@ function onStepHit()
         noteTweenAlpha("NoteAlpha3", 2, 1, 0.1, cubeInOut)
         noteTweenAlpha("NoteAlpha4", 3, 1, 0.1, cubeInOut)
 	end
-	if curStep == 336 then
+	if curStep == 336 and not songEnd then
 		noteTweenX("NoteMove13", 4, 10, 0.1, circIn)
 		noteTweenX("NoteMove14", 7, 1150, 0.1, circIn)
 		noteTweenX("NoteMove15", 5, 110, 0.1, circIn)
@@ -139,28 +138,31 @@ function onStepHit()
         noteTweenAlpha("NoteAlpha3", 2, -1, 0.1, cubeInOut)
         noteTweenAlpha("NoteAlpha4", 3, -1, 0.1, cubeInOut)
 	end
-	if curStep == 1200 then
+	if curStep == 1200 and not songEnd then
 		noteTweenX("NoteMove29", 4, 1100, 0.1, circIn)
 		noteTweenX("NoteMove30", 7, 650, 0.1, circIn)
 		noteTweenX("NoteMove31", 5, 950, 0.1, circIn)
 		noteTweenX("NoteMove32", 6, 800, 0.1, circIn)
 	end
-    if curStep == 1219 then
+    if curStep == 1219 and not songEnd then
 		noteTweenX("NoteMove33", 4, 650, 0.1, circIn)
         noteTweenX("NoteMove34", 5, 800, 0.1, circIn)
 		noteTweenX("NoteMove35", 6, 950, 0.1, circIn)
 		noteTweenX("NoteMove36", 7, 1100, 0.1, circIn)
 	end
-    if curStep == 1248 then
+    if curStep == 1248 and not songEnd then
 		noteTweenX("NoteMove37", 4, 1100, 0.1, circIn)
 		noteTweenX("NoteMove38", 7, 650, 0.1, circIn)
 		noteTweenX("NoteMove39", 5, 950, 0.1, circIn)
 		noteTweenX("NoteMove40", 6, 800, 0.1, circIn)
 	end
-    if curStep == 1270 then
+    if curStep == 1270 and not songEnd then
 		noteTweenX("NoteMove41", 4, 650, 0.1, circIn)
         noteTweenX("NoteMove42", 5, 800, 0.1, circIn)
 		noteTweenX("NoteMove43", 6, 950, 0.1, circIn)
 		noteTweenX("NoteMove44", 7, 1100, 0.1, circIn)
+	end
+	if curStep == 1312 then
+		songEnd = true
 	end
 end

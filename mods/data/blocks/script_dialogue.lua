@@ -40,7 +40,7 @@ end
 
 function onEndSong()
 	if not allowEnd and isStoryMode then
-		lineCount = 21
+		lineCount = 25
 		doTweenAlpha('1', 'bg', 1, 0.000000001, 'linear')
 		noteTweenAlpha('2', '0', 0, 0.0000001,'linear')
 		noteTweenAlpha('3', '1', 0, 0.0000001,'linear')
