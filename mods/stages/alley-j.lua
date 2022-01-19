@@ -27,7 +27,7 @@ function onCreate()
 	setScrollFactor('Sky', 1.0, 1.0);
 	scaleObject('Sky', 1.0, 1.0);
 
-	makeAnimatedLuaSprite('clouds', 'alley/clouds', -2000, -550);
+	makeAnimatedLuaSprite('clouds', 'alley/clouds', -2050, -550);
 	setScrollFactor('clouds', 1.0, 1.0);
 	addAnimationByPrefix('clouds','bop','CloudsIdle',24,false)
 	scaleObject('clouds', 1.1, 1.1);
@@ -53,7 +53,7 @@ function onCreate()
 	setScrollFactor('Walls', 1.0, 1.0);
 	scaleObject('Walls', 1.08, 1.08);
 
-	makeLuaSprite('Ground', 'alley/Ground', -550, -520);
+	makeLuaSprite('Ground', 'alley/Ground', -563, -520);
 	setScrollFactor('Ground', 1.0, 1.0);
 	scaleObject('Ground', 1.06, 1.06);
 
