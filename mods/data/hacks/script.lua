@@ -18,12 +18,4 @@ function onUpdate()
 	if curStep == 33 then
 		removeLuaObject('cutscene',true)
 	end
-
-	if curStep == 128 then
-		setProperty('songSpeed', getProperty('songSpeed') + 0.1)
-	end
-
-	if curStep == 144 then
-		setProperty('songSpeed', getProperty('songSpeed') - 0.1)
-	end
 end
