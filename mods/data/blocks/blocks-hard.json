@@ -3586,16 +3586,22 @@
 						"Notecore"
 					],
 					[
-						84812.5,
-						3,
-						0,
-						"Ivy Note"
-					],
-					[
 						84937.5,
 						1,
 						0,
-						"Ivy Note"
+						"Minus Gears Note"
+					],
+					[
+						84687.5,
+						2,
+						0,
+						"Plus Gears Note"
+					],
+					[
+						84812.5,
+						3,
+						0,
+						"Plus Gears Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -3670,34 +3676,34 @@
 						"Notecore"
 					],
 					[
-						85687.5,
-						3,
-						0,
-						"Ivy Note"
-					],
-					[
 						85562.5,
 						0,
 						0,
-						"Ivy Note"
-					],
-					[
-						85562.5,
-						2,
-						0,
-						"Ivy Note"
+						"Minus Gears Note"
 					],
 					[
 						85562.5,
 						1,
 						0,
-						"Notecore"
+						"Minus Gears Note"
 					],
 					[
 						85562.5,
 						3,
 						0,
-						"Notecore"
+						"Plus Gears Note"
+					],
+					[
+						85562.5,
+						2,
+						0,
+						"Plus Gears Note"
+					],
+					[
+						85687.5,
+						3,
+						0,
+						"Ivy Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -3991,16 +3997,6 @@
 				"bpm": 240,
 				"changeBPM": false,
 				"mustHitSection": true
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 240
 			},
 			{
 				"sectionNotes": [],

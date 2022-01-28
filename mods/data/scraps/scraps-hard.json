@@ -109,6 +109,12 @@
 						10750,
 						1,
 						0
+					],
+					[
+						10062.5,
+						1,
+						0,
+						"Minus Gears Note"
 					]
 				],
 				"lengthInSteps": 16,
@@ -125,6 +131,12 @@
 						11750,
 						1,
 						0
+					],
+					[
+						11750,
+						2,
+						0,
+						"Plus Gears Note"
 					]
 				],
 				"lengthInSteps": 16,
@@ -327,6 +339,30 @@
 						18750,
 						1,
 						0
+					],
+					[
+						18875,
+						0,
+						0,
+						"Minus Gears Note"
+					],
+					[
+						18125,
+						3,
+						0,
+						"Plus Gears Note"
+					],
+					[
+						18375,
+						2,
+						0,
+						"Plus Gears Note"
+					],
+					[
+						18625,
+						3,
+						0,
+						"Plus Gears Note"
 					]
 				],
 				"lengthInSteps": 16,
@@ -353,6 +389,30 @@
 						19750,
 						1,
 						0
+					],
+					[
+						19625,
+						1,
+						0,
+						"Minus Gears Note"
+					],
+					[
+						19187.5,
+						3,
+						0,
+						"Plus Gears Note"
+					],
+					[
+						19312.5,
+						3,
+						0,
+						"Plus Gears Note"
+					],
+					[
+						19437.5,
+						2,
+						0,
+						"Plus Gears Note"
 					]
 				],
 				"lengthInSteps": 16,
@@ -389,6 +449,30 @@
 						20625,
 						1,
 						0
+					],
+					[
+						20125,
+						0,
+						0,
+						"Minus Gears Note"
+					],
+					[
+						20437.5,
+						0,
+						0,
+						"Minus Gears Note"
+					],
+					[
+						20062.5,
+						3,
+						0,
+						"Plus Gears Note"
+					],
+					[
+						20375,
+						3,
+						0,
+						"Plus Gears Note"
 					]
 				],
 				"lengthInSteps": 16,
@@ -425,6 +509,30 @@
 						21125,
 						2,
 						0
+					],
+					[
+						21562.5,
+						0,
+						0,
+						"Minus Gears Note"
+					],
+					[
+						21812.5,
+						1,
+						0,
+						"Minus Gears Note"
+					],
+					[
+						21062.5,
+						3,
+						0,
+						"Plus Gears Note"
+					],
+					[
+						21375,
+						3,
+						0,
+						"Plus Gears Note"
 					]
 				],
 				"lengthInSteps": 16,
@@ -569,6 +677,24 @@
 						25750,
 						2,
 						0
+					],
+					[
+						25812.5,
+						1,
+						0,
+						"Minus Gears Note"
+					],
+					[
+						25312.5,
+						3,
+						0,
+						"Plus Gears Note"
+					],
+					[
+						25500,
+						2,
+						0,
+						"Plus Gears Note"
 					]
 				],
 				"lengthInSteps": 16,
@@ -1248,6 +1374,36 @@
 						54562.5,
 						1,
 						0
+					],
+					[
+						54312.5,
+						0,
+						0,
+						"Minus Gears Note"
+					],
+					[
+						54437.5,
+						0,
+						0,
+						"Minus Gears Note"
+					],
+					[
+						54062.5,
+						3,
+						0,
+						"Plus Gears Note"
+					],
+					[
+						54187.5,
+						2,
+						0,
+						"Plus Gears Note"
+					],
+					[
+						54625,
+						3,
+						0,
+						"Plus Gears Note"
 					]
 				],
 				"altAnim": false,
@@ -1283,6 +1439,36 @@
 						55562.5,
 						1,
 						0
+					],
+					[
+						55187.5,
+						0,
+						0,
+						"Minus Gears Note"
+					],
+					[
+						55250,
+						1,
+						0,
+						"Minus Gears Note"
+					],
+					[
+						55375,
+						0,
+						0,
+						"Minus Gears Note"
+					],
+					[
+						55500,
+						3,
+						0,
+						"Plus Gears Note"
+					],
+					[
+						55687.5,
+						2,
+						0,
+						"Plus Gears Note"
 					]
 				],
 				"altAnim": false,
@@ -1333,6 +1519,36 @@
 						56937.5,
 						2,
 						0
+					],
+					[
+						56375,
+						0,
+						0,
+						"Minus Gears Note"
+					],
+					[
+						56875,
+						1,
+						0,
+						"Minus Gears Note"
+					],
+					[
+						56062.5,
+						3,
+						0,
+						"Plus Gears Note"
+					],
+					[
+						56187.5,
+						2,
+						0,
+						"Plus Gears Note"
+					],
+					[
+						56625,
+						2,
+						0,
+						"Plus Gears Note"
 					]
 				],
 				"altAnim": false,
@@ -1368,6 +1584,24 @@
 						57500,
 						2,
 						125
+					],
+					[
+						57312.5,
+						2,
+						0,
+						"Plus Gears Note"
+					],
+					[
+						57062.5,
+						2,
+						0,
+						"Plus Gears Note"
+					],
+					[
+						57562.5,
+						3,
+						0,
+						"Plus Gears Note"
 					]
 				],
 				"altAnim": false,
@@ -1994,6 +2228,24 @@
 						76750,
 						2,
 						0
+					],
+					[
+						76625,
+						0,
+						0,
+						"Minus Gears Note"
+					],
+					[
+						76812.5,
+						1,
+						0,
+						"Minus Gears Note"
+					],
+					[
+						76375,
+						3,
+						0,
+						"Plus Gears Note"
 					]
 				],
 				"altAnim": false,
@@ -2022,6 +2274,18 @@
 						77750,
 						2,
 						0
+					],
+					[
+						77562.5,
+						0,
+						0,
+						"Minus Gears Note"
+					],
+					[
+						77250,
+						3,
+						0,
+						"Plus Gears Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -2082,6 +2346,30 @@
 						78750,
 						0,
 						0
+					],
+					[
+						78562.5,
+						0,
+						0,
+						"Minus Gears Note"
+					],
+					[
+						78062.5,
+						2,
+						0,
+						"Plus Gears Note"
+					],
+					[
+						78562.5,
+						3,
+						0,
+						"Plus Gears Note"
+					],
+					[
+						78750,
+						3,
+						0,
+						"Plus Gears Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -2144,6 +2432,30 @@
 						79750,
 						0,
 						0
+					],
+					[
+						79562.5,
+						0,
+						0,
+						"Minus Gears Note"
+					],
+					[
+						79062.5,
+						2,
+						0,
+						"Plus Gears Note"
+					],
+					[
+						79562.5,
+						3,
+						0,
+						"Plus Gears Note"
+					],
+					[
+						79812.5,
+						2,
+						0,
+						"Plus Gears Note"
 					]
 				],
 				"altAnim": false,
@@ -2332,6 +2644,36 @@
 						82750,
 						2,
 						0
+					],
+					[
+						82375,
+						1,
+						0,
+						"Minus Gears Note"
+					],
+					[
+						82687.5,
+						0,
+						0,
+						"Minus Gears Note"
+					],
+					[
+						82062.5,
+						3,
+						0,
+						"Plus Gears Note"
+					],
+					[
+						82312.5,
+						3,
+						0,
+						"Plus Gears Note"
+					],
+					[
+						82875,
+						3,
+						0,
+						"Plus Gears Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -2422,6 +2764,24 @@
 						83750,
 						2,
 						0
+					],
+					[
+						83625,
+						0,
+						0,
+						"Minus Gears Note"
+					],
+					[
+						83875,
+						1,
+						0,
+						"Minus Gears Note"
+					],
+					[
+						83250,
+						3,
+						0,
+						"Plus Gears Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -2922,6 +3282,16 @@
 				"mustHitSection": true,
 				"changeBPM": false,
 				"bpm": 240
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 240,
+				"changeBPM": false,
+				"mustHitSection": true
 			},
 			{
 				"gfSection": false,
