@@ -8,66 +8,66 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "mp idle",
+			"name": "mouse idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				13,
-				9
+				3,
+				0
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "mp left",
+			"name": "mouse left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-3,
-				8
+				-1,
+				0
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "mp down",
+			"name": "mouse down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-10,
-				11
+				3,
+				0
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "mp up",
+			"name": "mouse up",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-13,
-				7
+				-27,
+				0
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "mp right",
+			"name": "mouse right",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/MP_Assets",
+	"image": "characters/Mouse_assets",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "mp",
+	"healthicon": "mouse",
 	"flip_x": false,
 	"healthbar_colors": [
+		155,
 		255,
-		175,
-		106
+		195
 	],
 	"camera_position": [
 		0,
