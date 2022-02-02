@@ -1,49 +1,49 @@
 {
-	"storyName": "Dave The Racist Gamer",
-	"difficulties": "Hard",
+	"songs": [
+		[
+			"Chug",
+			"charlie-chugjug",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Meow",
+			"mp",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Self Doubt",
+			"jigga",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
 	"hideFreeplay": false,
-	"weekBackground": "studioshalloween",
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "The Prologue",
+	"weekName": "Prologue",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "Studios2",
-	"startUnlocked": false,
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
-	"songs": [
-		[
-			"Dotcom",
-			"dave",
-			[
-				40,
-				40,
-				100
-			]
-		],
-		[
-			"Gaming",
-			"dave",
-			[
-				40,
-				40,
-				100
-			]
-		],
-		[
-			"Hacks",
-			"hacz",
-			[
-				40,
-				40,
-				100
-			]
-		]
-	],
 	"hideStoryMode": false,
-	"weekName": "Studios3"
+	"weekBefore": "Studios2",
+	"startUnlocked": true
 }

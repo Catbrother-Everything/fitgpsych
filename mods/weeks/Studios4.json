@@ -1,8 +1,8 @@
 {
-	"storyName": "Later That Night...",
+	"storyName": "Dave The Racist Gamer",
 	"difficulties": "Hard",
 	"hideFreeplay": false,
-	"weekBackground": "studiospart1alternative",
+	"weekBackground": "studioshalloween",
 	"freeplayColor": [
 		146,
 		113,
@@ -17,15 +17,33 @@
 	],
 	"songs": [
 		[
-			"Odd",
-			"en-night",
+			"Dotcom",
+			"dave",
 			[
-				26,
-				13,
-				75
+				40,
+				40,
+				100
+			]
+		],
+		[
+			"Gaming",
+			"dave",
+			[
+				40,
+				40,
+				100
+			]
+		],
+		[
+			"Hacks",
+			"hacz",
+			[
+				40,
+				40,
+				100
 			]
 		]
 	],
 	"hideStoryMode": false,
-	"weekName": "Studios4"
+	"weekName": "Studios3"
 }

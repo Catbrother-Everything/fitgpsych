@@ -1,64 +1,64 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				362,
-				8
-			],
 			"loop": false,
+			"offsets": [
+				250,
+				-110
+			],
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "CharlieLeft0",
-			"indices": []
+			"indices": [],
+			"name": "CharlieRight0"
 		},
 		{
-			"offsets": [
-				105,
-				-288
-			],
 			"loop": false,
+			"offsets": [
+				60,
+				-310
+			],
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "CharlieDown0",
-			"indices": []
+			"indices": [],
+			"name": "CharlieDown0"
 		},
 		{
-			"offsets": [
-				-134,
-				311
-			],
 			"loop": false,
+			"offsets": [
+				-70,
+				300
+			],
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "CharlieUp0",
-			"indices": []
+			"indices": [],
+			"name": "CharlieUp0"
 		},
 		{
-			"offsets": [
-				-168,
-				-111
-			],
 			"loop": false,
-			"anim": "singRIGHT",
+			"offsets": [
+				-240,
+				23
+			],
 			"fps": 24,
-			"name": "CharlieRight0",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "CharlieLeft0"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"anim": "idle",
 			"fps": 24,
-			"name": "CharlieIdle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "CharlieIdle"
 		},
 		{
 			"offsets": [
-				-134,
-				311
+				-70,
+				300
 			],
 			"loop": false,
 			"anim": "singUPmiss",
@@ -68,30 +68,30 @@
 		},
 		{
 			"offsets": [
-				-168,
-				-111
+				-240,
+				23
 			],
 			"loop": false,
 			"anim": "singRIGHTmiss",
-			"fps": 24,
-			"name": "CharlieMISSRight",
-			"indices": []
-		},
-		{
-			"offsets": [
-				362,
-				8
-			],
-			"loop": false,
-			"anim": "singLEFTmiss",
 			"fps": 24,
 			"name": "CharlieMISSLeft",
 			"indices": []
 		},
 		{
 			"offsets": [
-				105,
-				-288
+				250,
+				-110
+			],
+			"loop": false,
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "CharlieMISSRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				60,
+				-310
 			],
 			"loop": false,
 			"anim": "singDOWNmiss",
@@ -115,7 +115,7 @@
 	],
 	"camera_position": [
 		0,
-		0
+		170
 	],
 	"sing_duration": 6.1,
 	"scale": 1
