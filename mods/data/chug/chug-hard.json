@@ -1766,7 +1766,7 @@
 		"song": "Chug",
 		"validScore": true,
 		"needsVoices": true,
-		"stage": "studio",
+		"stage": "chug",
 		"speed": 2.7,
 		"bpm": 168
 	}
