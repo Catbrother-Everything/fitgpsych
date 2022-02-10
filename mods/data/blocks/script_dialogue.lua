@@ -29,9 +29,11 @@ function onStartCountdown()
 end
 
 function onUpdate(elapsed)
-	if keyJustPressed('accept') and not acceptedStuff and allowPress then
-		acceptedStuff = true;
-		removeLuaSprite('hell_nah', false);
+	if not acceptedStuff and allowPress then
+		if keyJustPressed('accept') then
+			acceptedStuff = true;
+			removeLuaSprite('hell_nah', false);
+		end
 	end
 	if acceptedStuff then
 		startCountdown()
