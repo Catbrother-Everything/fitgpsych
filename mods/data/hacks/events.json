@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "hacz",
+		"player1": "bf",
+		"player2": "hacz",
+		"player3": null,
+		"events": [
+			[
+				103917.525773196,
+				[
+					[
+						"Change Scroll Speed",
+						"1.3",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-none",
+		"bpm": 97,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Hacks"
+	}
+}
