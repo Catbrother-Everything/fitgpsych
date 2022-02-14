@@ -29,14 +29,14 @@
 		]
 	],
 	"hideFreeplay": false,
-	"weekBackground": "stage",
+	"weekBackground": "studiosprologue",
 	"difficulties": "Hard",
 	"weekCharacters": [
 		"",
-		"bf",
-		"gf"
+		"",
+		""
 	],
-	"storyName": "The Prologue",
+	"storyName": "Memories from the past",
 	"weekName": "Prologue",
 	"freeplayColor": [
 		146,
@@ -45,5 +45,5 @@
 	],
 	"hideStoryMode": false,
 	"weekBefore": "Studios2",
-	"startUnlocked": true
+	"startUnlocked": false
 }
