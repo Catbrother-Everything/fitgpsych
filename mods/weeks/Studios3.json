@@ -3,47 +3,47 @@
 	"difficulties": "Hard",
 	"hideFreeplay": false,
 	"weekBackground": "studiosprologue",
-	"weekBefore": "Studios2",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "Studios2",
 	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
 	"songs": [
 		[
 			"Chug",
 			"charlie-chugjug",
 			[
-				146,
-				113,
-				253
+				60,
+				173,
+				193
 			]
 		],
 		[
 			"Meow",
 			"mp",
 			[
-				146,
-				113,
-				253
+				60,
+				173,
+				193
 			]
 		],
 		[
 			"Self Doubt",
 			"jigga",
 			[
-				146,
-				113,
-				253
+				60,
+				173,
+				193
 			]
 		]
 	],
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
+	"hideStoryMode": false,
 	"weekName": "Prologue"
 }
