@@ -4,6 +4,7 @@ function onStartCountdown()
 		setScrollFactor('hell_nah', 0, 0);
 		scaleObject('hell_nah',1.1, 1.1);
 		addLuaSprite('hell_nah', true);
+		setObjectCamera('hell_nah','camOther')
 		allowPress = true
 		return Function_Stop;
 	end
