@@ -4,8 +4,10 @@ Parrot::parrot::Coder of the OG mod and Additional Coding::https://twitter.com/C
 Vy::vy::Additional Coding::https://twitter.com/Itz_Vy_::CC99FF
 
 FITG - Art
-CharlieTsun::charlietsun::Main Artist::https://twitter.com/CharlieTsun::F87AC1
+JustSomeSush::sush::New Main Artist::https://twitter.com/JustSomeSush::0xFF96FF96
+CharlieTsun::charlietsun::Ex-Main Artist::https://twitter.com/CharlieTsun::F87AC1
 Vy::vy::Additional Artist::https://twitter.com/Itz_Vy_::CC99FF
+JiggaOver9000::jiggaover9000::Additional Artist::https://twitter.com/JiggaOver9000::6F6FFF
 
 FITG - Music
 KamilFirma::kamilfirma::Main Composer::https://twitter.com/KamilFirma::FF1E98
@@ -13,10 +15,11 @@ Parrot::parrot::Composed something terrible::https://twitter.com/CatbrotherEvery
 
 FITG - Voice Acting
 Neo::neo::Mr. Seven's Voice Actor::https://twitter.com/NeoTheAverage::4AFF82
-HoneyApple::honeyapple::Charlie, En and Nova's Chromatic Scale::https://twitter.com/4PPLEC0RE::946680
-Vy::vy::Nard's Chromatic Scale::https://twitter.com/Itz_Vy_::CC99FF
-CharlieTsun::charlietsun::Nathan's Chromatic Scale::https://twitter.com/CharlieTsun::F87AC1
-DaveDotCom::davedotcom::Dave's Chromatic Scale::https://twitter.com/DavedotComLIVE::9147FF
+HoneyApple::honeyapple::Charlie, En and Nova's Samples::https://twitter.com/4PPLEC0RE::946680
+Vy::vy::Nard's and the Cats' Samples::https://twitter.com/Itz_Vy_::CC99FF
+CharlieTsun::charlietsun::Nathan's Samples::https://twitter.com/CharlieTsun::F87AC1
+DaveDotCom::davedotcom::Dave's Samples::https://twitter.com/DavedotComLIVE::9147FF
+JiggaOver9000::jiggaover9000::Jigga's Samples::https://twitter.com/JiggaOver9000::6F6FFF
 
 FITG - Charting
 Parrot::parrot::Main Charter::https://twitter.com/CatbrotherEvery::FF646D
@@ -26,6 +29,7 @@ FITG - Story & Writing
 CharlieTsun::charlietsun::Main Writer::https://twitter.com/CharlieTsun::F87AC1
 Parrot::parrot::Additional Writer and Original Idea::https://twitter.com/CatbrotherEvery::FF646D
 Nard::nard::Additional Writer::https://twitter.com/bruh_nard::89E4FF
+JiggaOver9000::jiggaover9000::Additional Writing, came up with Prologue::https://twitter.com/JiggaOver9000::6F6FFF
 
 FITG - Characters
 Fandoms::fandoms::Owner of Aaron::https://www.instagram.com/fandomsrsin/::FFD395
@@ -38,4 +42,4 @@ Neo::neo::Owner of Mr. Seven::https://twitter.com/NeoTheAverage::4AFF82
 KamilFirma::kamilfirma::Owner of Rabbitdud::https://twitter.com/KamilFirma::FF1E98
 DaveDotCom::davedotcom::Owner of Dave::https://twitter.com/DavedotComLIVE::9147FF
 JiggaOver9000::jiggaover9000::Owner of Jigga::https://twitter.com/JiggaOver9000::6F6FFF
-MP::mp::Owner of MP::https://twitter.com/FnafRfan::FFFFFF
+MP::mp::Owner of MP (Returning one day)::https://twitter.com/FnafRfan::FFFFFF
