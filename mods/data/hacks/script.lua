@@ -46,7 +46,7 @@ end
 
 function onBeatHit()
 	if curBeat == 72 then
-		makeLuaText('HELP', 'I CANT LOSE', 350, 0, 500)
+		makeLuaText('HELP', 'I CANT LOSE', 350, 0, 450)
 		setTextFont('HELP', 'HelpMe.tff')
 		setTextAlignment('HELP', 'center')
 		setTextSize('HELP', 100)
