@@ -8,9 +8,9 @@ function onCreate()
 	setScrollFactor('sky', 1.0, 1.0);
 	scaleObject('sky', 1.2, 1.2);
 
-	makeLuaSprite('bg', 'halloween/Halloween_BG', 0, y);
-	setScrollFactor('bg', 1.0, 1.0);
-	scaleObject('bg', 1.2, 1.2);
+	makeLuaSprite('bgh', 'halloween/Halloween_BG', 0, y);
+	setScrollFactor('bgh', 1.0, 1.0);
+	scaleObject('bgh', 1.2, 1.2);
 
 	makeLuaSprite('light', 'halloween/Halloween_Light', x, y);
 	setScrollFactor('light', 1.0, 1.0);
@@ -21,7 +21,7 @@ function onCreate()
 	scaleObject('fg', 1.4, 1.4);
 
 	addLuaSprite('sky', false);
-	addLuaSprite('bg', false);
+	addLuaSprite('bgh', false);
 	addLuaSprite('light', true);
 	addLuaSprite('fg', true);
 end
