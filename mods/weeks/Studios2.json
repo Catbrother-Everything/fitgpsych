@@ -3,14 +3,18 @@
 	"difficulties": "Hard, Nard",
 	"hideFreeplay": false,
 	"weekBackground": "studiospart2",
-	"weekBefore": "Studios1",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"startUnlocked": false,
-	"hideStoryMode": false,
+	"weekBefore": "Studios1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
 	"songs": [
 		[
 			"Scraps",
@@ -58,10 +62,6 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
+	"hideStoryMode": false,
 	"weekName": "Studios2"
 }

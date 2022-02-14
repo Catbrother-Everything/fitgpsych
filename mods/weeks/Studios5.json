@@ -3,18 +3,14 @@
 	"difficulties": "Hard",
 	"hideFreeplay": false,
 	"weekBackground": "studiospart1alternative",
+	"weekBefore": "Studios2",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "Studios2",
-	"startUnlocked": false,
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Odd",
@@ -26,6 +22,10 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
 	"weekName": "Studios4"
 }

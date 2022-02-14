@@ -1,4 +1,16 @@
 {
+	"storyName": "Memories from the past",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "studiosprologue",
+	"weekBefore": "Studios2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Chug",
@@ -28,22 +40,10 @@
 			]
 		]
 	],
-	"hideFreeplay": false,
-	"weekBackground": "studiosprologue",
-	"difficulties": "Hard",
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
-	"storyName": "Memories from the past",
-	"weekName": "Prologue",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"hideStoryMode": false,
-	"weekBefore": "Studios2",
-	"startUnlocked": false
+	"weekName": "Prologue"
 }

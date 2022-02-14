@@ -3,18 +3,14 @@
 	"difficulties": "Hard",
 	"hideFreeplay": false,
 	"weekBackground": "studioshalloween",
+	"weekBefore": "Studios2",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "Studios2",
-	"startUnlocked": false,
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Dotcom",
@@ -44,6 +40,10 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
 	"weekName": "Studios3"
 }
