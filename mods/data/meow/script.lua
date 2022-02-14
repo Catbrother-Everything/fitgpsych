@@ -11,7 +11,7 @@ function onCreate()
 	addAnimationByPrefix('Fuck','bop','MaximusIdle',24,false)
 	scaleObject('Fuck', 1.0, 1.0);
 
-    makeAnimatedLuaSprite('Fuck2', 'characters/Bagheera_Assets', -600, 780);
+    makeAnimatedLuaSprite('Fuck2', 'characters/Bagheera_Assets', -640, 780);
 	setScrollFactor('Fuck2', 1.0, 1.0);
 	addAnimationByPrefix('Fuck2','bop','BagheeraIdle',24,false)
 	addAnimationByPrefix('Fuck2','guitar','BagheeraGuitar',24,false)

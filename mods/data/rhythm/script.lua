@@ -19,3 +19,9 @@ function goodNoteHit(d, noteData, noteType, isSustainNote)
 		objectPlayAnimation('Fuck','gun',true)
 	end
 end
+
+function onBeatHit(elapsed)
+	if curStep < 56 and difficulty == 0 then
+		setProperty('health',getProperty('health') + 0.1)
+	end
+end

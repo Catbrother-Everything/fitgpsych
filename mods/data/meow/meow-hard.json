@@ -778,25 +778,25 @@
 						52000,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						52750,
 						3,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						53000,
 						3,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						53750,
 						0,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					]
 				],
 				"mustHitSection": false
@@ -808,43 +808,43 @@
 						54000,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						54500,
 						3,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						55000,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						55568.75,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						55475,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						55378.125,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						55315.625,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					]
 				],
 				"mustHitSection": false
@@ -903,31 +903,31 @@
 						60000,
 						3,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						60750,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						60875,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						61000,
 						1,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						61500,
 						3,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					]
 				],
 				"mustHitSection": false
@@ -939,37 +939,37 @@
 						62000,
 						0,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						62375,
 						1,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						62500,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						62750,
 						3,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						63000,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						63500,
 						1,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					]
 				],
 				"mustHitSection": false
@@ -1043,31 +1043,31 @@
 						66000,
 						4,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						66250,
 						5,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						66500,
 						6,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						67000,
 						7,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						67500,
 						5,
 						375,
-						"Hurt Note"
+						"Mouse Note"
 					]
 				],
 				"altAnim": false,
@@ -1084,25 +1084,25 @@
 						68000,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						68750,
 						3,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						69000,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						69500,
 						1,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					]
 				],
 				"altAnim": false,
@@ -1119,37 +1119,37 @@
 						70000,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						70500,
 						0,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						70750,
 						1,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						70875,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						71000,
 						3,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						71500,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					]
 				],
 				"altAnim": false,
@@ -1288,79 +1288,79 @@
 						78000,
 						0,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						78000,
 						1,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						78375,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						78375,
 						3,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						78750,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						78750,
 						1,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						78750,
 						0,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						79250,
 						3,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						79250,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						79500,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						79500,
 						1,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						79750,
 						0,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						79750,
 						1,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					]
 				],
 				"altAnim": false,
@@ -1377,97 +1377,97 @@
 						80000,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						80000,
 						3,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						80375,
 						1,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						80375,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						80750,
 						0,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						80750,
 						1,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						81000,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						81000,
 						1,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						81000,
 						3,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						81250,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						81250,
 						1,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						81250,
 						0,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						81375,
 						1,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						81375,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						81750,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						81750,
 						3,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					]
 				],
 				"altAnim": false,
@@ -1484,91 +1484,91 @@
 						82000,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						82000,
 						3,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						82375,
 						1,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						82375,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						82375,
 						3,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						82750,
 						0,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						82750,
 						1,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						82750,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						82750,
 						3,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						83250,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						83250,
 						1,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						83500,
 						0,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						83500,
 						1,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						83750,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						83750,
 						3,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					]
 				],
 				"altAnim": false,
@@ -1585,49 +1585,49 @@
 						84000,
 						3,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						84000,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						84375,
 						1,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						84375,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						84750,
 						0,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						84750,
 						1,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						85000,
 						1,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						85000,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					]
 				],
 				"altAnim": false,
@@ -1883,31 +1883,31 @@
 						111000,
 						7,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						111250,
 						7,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						111500,
 						6,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						111375,
 						7,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						111750,
 						5,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						111000,
@@ -1954,7 +1954,7 @@
 						112000,
 						6,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						112500,
@@ -1965,7 +1965,7 @@
 						112500,
 						5,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						113000,
@@ -1981,13 +1981,13 @@
 						113000,
 						6,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						113250,
 						6,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						113500,
@@ -2003,13 +2003,13 @@
 						113500,
 						7,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						113750,
 						6,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					]
 				],
 				"altAnim": false,
@@ -2026,49 +2026,49 @@
 						114000,
 						5,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						114750,
 						7,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						114875,
 						6,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						115000,
 						5,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						115250,
 						5,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						115375,
 						6,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						115500,
 						7,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						115750,
 						5,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						114000,
@@ -2125,37 +2125,37 @@
 						116000,
 						5,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						116500,
 						7,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						117000,
 						5,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						117250,
 						5,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						117500,
 						6,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						117750,
 						7,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						116000,
@@ -2202,25 +2202,25 @@
 						118000,
 						5,
 						375,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						119000,
 						6,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						119750,
 						6,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						119875,
 						7,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						118000,
@@ -2242,43 +2242,43 @@
 						120000,
 						1,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						120500,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						120875,
 						3,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						121000,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						121250,
 						0,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						121559.375,
 						1,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						121750,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					]
 				],
 				"altAnim": false,
@@ -2295,37 +2295,37 @@
 						122000,
 						3,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						122250,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						122500,
 						1,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						123000,
 						2,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						123750,
 						1,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						123875,
 						0,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						123000,
@@ -2357,43 +2357,43 @@
 						124000,
 						5,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						124500,
 						6,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						124875,
 						7,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						125000,
 						6,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						125250,
 						4,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						125559.375,
 						5,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						125750,
 						6,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						124000,
@@ -2445,31 +2445,31 @@
 						126000,
 						7,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						126250,
 						6,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						126500,
 						5,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						126750,
 						4,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						126875,
 						5,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						127000,
@@ -2485,19 +2485,19 @@
 						127000,
 						6,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						127375,
 						5,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						127500,
 						6,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						126000,
@@ -2539,49 +2539,49 @@
 						128000,
 						7,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						128500,
 						5,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						128750,
 						6,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						129000,
 						7,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						129125,
 						7,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						129250,
 						6,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						129375,
 						5,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						129750,
 						6,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						128000,
@@ -2608,25 +2608,25 @@
 						130000,
 						5,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						131000,
 						5,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						131250,
 						6,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						131500,
 						7,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						130000,
@@ -2658,73 +2658,73 @@
 						132000,
 						6,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						132500,
 						5,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						132625,
 						6,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						132875,
 						7,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						133000,
 						6,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						133125,
 						5,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						133250,
 						4,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						133375,
 						5,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						133500,
 						6,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						133625,
 						7,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						133750,
 						6,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						133875,
 						4,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						132000,
@@ -2786,7 +2786,7 @@
 						134000,
 						5,
 						0,
-						"Hurt Note"
+						"Mouse Note"
 					],
 					[
 						134000,
