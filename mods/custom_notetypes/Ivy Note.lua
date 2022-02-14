@@ -34,3 +34,8 @@ function onUpdate(elapsed)
 			setProperty('health', getProperty('health') - ivyStrength * elapsed);
 	end
 end
+
+function onEndSong()
+	ivyStrength = 0
+	ivyLasting = 0
+end
