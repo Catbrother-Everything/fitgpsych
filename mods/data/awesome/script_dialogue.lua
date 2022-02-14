@@ -18,8 +18,9 @@ function onStartCountdown()
 	end
 
 	if not acceptedStuff and difficulty == 0 then
-		makeLuaSprite('hell_nah', 'id/MechanicCard_Neo', 75, 0);
+		makeLuaSprite('hell_nah', 'id/MechanicCard_Neo', -100, -125);
 		setScrollFactor('hell_nah', 0, 0);
+		scaleObject('hell_nah',1.3,1.3);
 		addLuaSprite('hell_nah', true);
 		allowPress = true
 		return Function_Stop;
