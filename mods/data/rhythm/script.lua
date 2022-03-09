@@ -10,10 +10,6 @@ function onCreate()
 	setProperty('dad.y',-120)
 end
 
-function onBeatHit()
-	objectPlayAnimation('Fuck','bop',false)
-end
-
 function goodNoteHit(d, noteData, noteType, isSustainNote)
 	if noteType == 'Warning Note' then
 		objectPlayAnimation('Fuck','gun',true)
@@ -21,6 +17,7 @@ function goodNoteHit(d, noteData, noteType, isSustainNote)
 end
 
 function onBeatHit(elapsed)
+	objectPlayAnimation('Fuck','bop',false)
 	if curStep < 56 and difficulty == 0 then
 		setProperty('health',getProperty('health') + 0.1)
 	end

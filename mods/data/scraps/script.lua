@@ -23,4 +23,5 @@ end
 
 function opponentNoteHit()
 	setProperty('health',getProperty('health') - 0.01)
+	triggerEvent('Screen Shake','0.080,0.0041','0.080,0.0021')
 end

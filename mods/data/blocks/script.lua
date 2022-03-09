@@ -2,6 +2,10 @@ local junk = math.random(0,1)
 local horizontalMoment = math.random(0,1)
 local verticalMoment = math.random(0,1)
 
+function onStartCountdown()
+	setProperty('downscroll',false)
+end
+
 function onCreate()
 	setProperty('dad.x', 275)
 	setProperty('dad.y', 90)
