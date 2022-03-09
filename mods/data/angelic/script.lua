@@ -1,15 +1,39 @@
 local songEnd = false
 local xx = 520;
-local yy = 0;
+local yy = -200;
 local xx2 = 1000;
 local yy2 = 250;
 local ofs = 60;
 local followchars = true;
 local del = 0;
 local del2 = 0;
-
+local wasDownScroll = false
 
 function onUpdate()
+	if curStep == 16 and wasDownScroll then
+		noteTweenY('sex',0,20,0.7,'circInOut')
+	end
+	if curStep == 20 and wasDownScroll then
+		noteTweenY('sexthesequel',3,20,0.7,'circInOut')
+	end
+	if curStep == 24 and wasDownScroll then
+		noteTweenY('sexthethird',1,20,0.7,'circInOut')
+	end
+	if curStep == 28 and wasDownScroll then
+		noteTweenY('sexthefinal',2,20,0.7,'circInOut')
+	end
+	if curStep == 32 and wasDownScroll then
+		noteTweenY('love',4,20,0.7,'circInOut')
+	end
+	if curStep == 36 and wasDownScroll then
+		noteTweenY('lovethesequel',5,20,0.7,'circInOut')
+	end
+	if curStep == 41 and wasDownScroll then
+		noteTweenY('lovethethird',6,20,0.7,'circInOut')
+	end
+	if curStep == 44 and wasDownScroll then
+		noteTweenY('kivethefinal',7,20,0.7,'circInOut')
+	end
 	if del > 0 then
 		del = del - 1
 	end
@@ -75,10 +99,10 @@ end
 function onCreate()
 	setProperty('dad.x',0)
 	setProperty('dad.y',-550)
-end
-
-function onSongStart()
-
+		if downscroll then
+		wasDownScroll = true
+		setPropertyFromClass('ClientPrefs','downScroll',false)
+	end
 end
 
 function onStepHit()
