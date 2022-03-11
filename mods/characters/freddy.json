@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				48,
 				-39
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "FreddyLeft"
+			"fps": 24,
+			"name": "FreddyLeft",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-9,
-				-73
+				-72
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "FreddyDown"
+			"fps": 24,
+			"name": "FreddyDown",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				21,
-				8
+				18,
+				-6
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singUP",
-			"indices": [],
-			"name": "FreddyUp"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-50,
-				-45
-			],
 			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "FreddyRight"
+			"name": "FreddyUp",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
+				52,
+				-44
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "FreddyRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
 				0
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "idle",
-			"indices": [],
-			"name": "FreddyIdle"
+			"fps": 24,
+			"name": "FreddyIdle",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
