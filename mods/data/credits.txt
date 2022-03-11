@@ -18,7 +18,6 @@ Neo::neo::Mr. Seven's Voice Actor::https://twitter.com/NeoTheAverage::4AFF82
 HoneyApple::honeyapple::Charlie, En and Nova's Samples::https://twitter.com/4PPLEC0RE::946680
 Vy::vy::Nard's and the Cats' Samples::https://twitter.com/Itz_Vy_::CC99FF
 CharlieTsun::charlietsun::Nathan's Samples::https://twitter.com/CharlieTsun::F87AC1
-DaveDotCom::davedotcom::Dave's Samples::https://twitter.com/DavedotComLIVE::9147FF
 JiggaOver9000::jiggaover9000::Jigga's Samples::https://twitter.com/JiggaOver9000::6F6FFF
 
 FITG - Charting
@@ -40,6 +39,5 @@ Parrot::parrot::Owner of Block Guy, Nathan and Hacz::https://twitter.com/Catbrot
 Nard::nard::Owner of Nard::https://twitter.com/bruh_nard::89E4FF
 Neo::neo::Owner of Mr. Seven::https://twitter.com/NeoTheAverage::4AFF82
 KamilFirma::kamilfirma::Owner of Rabbitdud::https://twitter.com/KamilFirma::FF1E98
-DaveDotCom::davedotcom::Owner of Dave::https://twitter.com/DavedotComLIVE::9147FF
 JiggaOver9000::jiggaover9000::Owner of Jigga::https://twitter.com/JiggaOver9000::6F6FFF
 MP::mp::Owner of MP (Returning one day)::https://twitter.com/FnafRfan::FFFFFF

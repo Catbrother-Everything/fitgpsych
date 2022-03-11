@@ -1,8 +1,8 @@
 {
-	"storyName": "Later That Night...",
+	"storyName": "Thank God she's gone",
 	"difficulties": "Hard",
 	"hideFreeplay": false,
-	"weekBackground": "studiospart1alternative",
+	"weekBackground": "jailtime",
 	"weekBefore": "Studios2",
 	"freeplayColor": [
 		146,
@@ -13,12 +13,12 @@
 	"hideStoryMode": false,
 	"songs": [
 		[
-			"Odd",
-			"en-night",
+			"Jail",
+			"nova",
 			[
-				26,
+				166,
 				13,
-				75
+				213
 			]
 		]
 	],
@@ -27,5 +27,5 @@
 		"",
 		""
 	],
-	"weekName": "Studios4"
+	"weekName": "Studios5"
 }

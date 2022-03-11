@@ -3314,10 +3314,9 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "dave",
+		"player2": "seven",
 		"player3": null,
-		"song": "Gaming",
-		"arrowSkin": "NOTES_goop",
+		"song": "Round 2",
 		"stage": "attic",
 		"needsVoices": true,
 		"validScore": true,

@@ -1805,11 +1805,10 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "dave",
+		"player2": "freddy",
 		"player3": null,
-		"song": "Dotcom",
-		"arrowSkin": "NOTES_goop",
-		"stage": "attic",
+		"song": "Freddy Fazbear",
+		"stage": "studio",
 		"needsVoices": true,
 		"validScore": true,
 		"bpm": 122,
