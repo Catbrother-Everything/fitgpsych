@@ -40,4 +40,3 @@ Nard::nard::Owner of Nard::https://twitter.com/bruh_nard::89E4FF
 Neo::neo::Owner of Mr. Seven::https://twitter.com/NeoTheAverage::4AFF82
 KamilFirma::kamilfirma::Owner of Rabbitdud::https://twitter.com/KamilFirma::FF1E98
 JiggaOver9000::jiggaover9000::Owner of Jigga::https://twitter.com/JiggaOver9000::6F6FFF
-MP::mp::Owner of MP (Returning one day)::https://twitter.com/FnafRfan::FFFFFF

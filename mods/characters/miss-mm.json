@@ -8,7 +8,7 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "mp idle",
+			"name": "miss idle",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "mp left",
+			"name": "miss left",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "mp down",
+			"name": "miss down",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "mp up",
+			"name": "miss up",
 			"indices": []
 		},
 		{
@@ -52,17 +52,17 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "mp right",
+			"name": "miss right",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/MP_Assets",
+	"image": "characters/Miss_Meow_Meow_Assets",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "mp",
+	"healthicon": "miss-mm",
 	"flip_x": false,
 	"healthbar_colors": [
 		255,
