@@ -46,6 +46,50 @@
 		},
 		{
 			"offsets": [
+				103,
+				-79
+			],
+			"loop": false,
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "AaronLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				226,
+				-265
+			],
+			"loop": false,
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "AaronDown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				199,
+				66
+			],
+			"loop": false,
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "AaronUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				6,
+				-111
+			],
+			"loop": false,
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "AaronRight",
+			"indices": []
+		},
+		{
+			"offsets": [
 				0,
 				0
 			],
