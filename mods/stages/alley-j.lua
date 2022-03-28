@@ -3,22 +3,30 @@ local birdY = math.random(-100, -250);
 
 function onCreate()
 	-- background shit
-	makeLuaSprite('Skyg', 'alley/Sky_galaxy', -600, -3750);
-	setScrollFactor('Skyg', 1.0, 1.0);
-	scaleObject('Skyg', 1.0, 1.0);
+	if not lowQuality or not songName == 'J' then
+		makeLuaSprite('Skyg', 'alley/Sky_galaxy', -600, -3750);
+		setScrollFactor('Skyg', 1.0, 1.0);
+		scaleObject('Skyg', 1.0, 1.0);
+	end
 
-	makeLuaSprite('Skyr', 'alley/Sky_reaching_galaxy', -600, -2730);
-	setScrollFactor('Skyr', 1.0, 1.0);
-	scaleObject('Skyr', 1.0, 1.0);
+	if not lowQuality or not songName == 'J' then
+		makeLuaSprite('Skyr', 'alley/Sky_reaching_galaxy', -600, -2730);
+		setScrollFactor('Skyr', 1.0, 1.0);
+		scaleObject('Skyr', 1.0, 1.0);
+	end
 
-	makeLuaSprite('Skym3', 'alley/Sky_middle', -600, -2400);
-	setScrollFactor('Skym3', 1.0, 1.0);
-	scaleObject('Skym3', 1.0, 1.0);
+	if not lowQuality or not songName == 'J' then
+		makeLuaSprite('Skym3', 'alley/Sky_middle', -600, -2400);
+		setScrollFactor('Skym3', 1.0, 1.0);
+		scaleObject('Skym3', 1.0, 1.0);
+	end
 
-	makeLuaSprite('Skym2', 'alley/Sky_middle', -600, -1900);
-	setScrollFactor('Skym2', 1.0, 1.0);
-	scaleObject('Skym2', 1.0, 1.0);
-	
+	if not lowQuality or not songName == 'J' then
+		makeLuaSprite('Skym2', 'alley/Sky_middle', -600, -1900);
+		setScrollFactor('Skym2', 1.0, 1.0);
+		scaleObject('Skym2', 1.0, 1.0);
+	end
+
 	makeLuaSprite('Skym', 'alley/Sky_middle', -600, -1350);
 	setScrollFactor('Skym', 1.0, 1.0);
 	scaleObject('Skym', 1.0, 1.0);
@@ -27,19 +35,29 @@ function onCreate()
 	setScrollFactor('Sky', 1.0, 1.0);
 	scaleObject('Sky', 1.0, 1.0);
 
-	makeAnimatedLuaSprite('clouds', 'alley/clouds', -2050, -550);
-	setScrollFactor('clouds', 1.0, 1.0);
-	addAnimationByPrefix('clouds','bop','CloudsIdle',24,false)
-	scaleObject('clouds', 1.1, 1.1);
+	if not lowQuality then
+		makeAnimatedLuaSprite('clouds', 'alley/clouds', -2050, -550);
+		setScrollFactor('clouds', 1.0, 1.0);
+		addAnimationByPrefix('clouds','bop','CloudsIdle',24,false)
+		scaleObject('clouds', 1.1, 1.1);
+	else
+		makeLuaSprite('clouds', 'alley/clouds', -2050, -550);
+		setScrollFactor('clouds', 1.0, 1.0);
+		scaleObject('clouds', 1.1, 1.1);
+	end
 
-	makeAnimatedLuaSprite('Birds', 'alley/Birds', birdX, birdY);
-	setScrollFactor('Birds', 0.02, 0.02);
-	addAnimationByPrefix('Birds','bop','birdie',24,true)
-	scaleObject('Birds', 0.4, 0.4);
+	if not lowQuality then
+		makeAnimatedLuaSprite('Birds', 'alley/Birds', birdX, birdY);
+		setScrollFactor('Birds', 0.02, 0.02);
+		addAnimationByPrefix('Birds','bop','birdie',24,true)
+		scaleObject('Birds', 0.4, 0.4);
+	end
 
-	makeLuaSprite('BGBuildings', 'alley/BGBuildings', -220, -280);
-	setScrollFactor('BGBuildings', 1.0, 1.0);
-	scaleObject('BGBuildings', 0.7, 0.7);
+	if not lowQuality then
+		makeLuaSprite('BGBuildings', 'alley/BGBuildings', -220, -280);
+		setScrollFactor('BGBuildings', 1.0, 1.0);
+		scaleObject('BGBuildings', 0.7, 0.7);
+	end
 
 	makeLuaSprite('Road', 'alley/Road', -600, -430);
 	setScrollFactor('Road', 1.0, 1.0);
@@ -61,9 +79,11 @@ function onCreate()
 	setScrollFactor('Dumpsters', 1.0, 1.0);
 	scaleObject('Dumpsters', 1.0, 1.0);
 	
-	makeLuaSprite('Trash', 'alley/Trash', -300, -440);
-	setScrollFactor('Trash', 1.0, 1.0);
-	scaleObject('Trash', 0.96, 0.96);
+	if not lowQuality then
+		makeLuaSprite('Trash', 'alley/Trash', -300, -440);
+		setScrollFactor('Trash', 1.0, 1.0);
+		scaleObject('Trash', 0.96, 0.96);
+	end
 	
 	addLuaSprite('Skym', false);
 	addLuaSprite('Sky', false);
