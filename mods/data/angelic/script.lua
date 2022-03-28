@@ -10,29 +10,29 @@ local del2 = 0;
 local wasDownScroll = false
 
 function onUpdate()
-	if curStep == 16 and wasDownScroll then
+	if curStep == 16 and wasDownScroll and not songEnd then
 		noteTweenY('sex',0,20,0.7,'circInOut')
 	end
-	if curStep == 20 and wasDownScroll then
+	if curStep == 20 and wasDownScroll and not songEnd then
 		noteTweenY('sexthesequel',3,20,0.7,'circInOut')
 	end
-	if curStep == 24 and wasDownScroll then
+	if curStep == 24 and wasDownScroll and not songEnd then
 		noteTweenY('sexthethird',1,20,0.7,'circInOut')
 	end
-	if curStep == 28 and wasDownScroll then
+	if curStep == 28 and wasDownScroll and not songEnd then
 		noteTweenY('sexthefinal',2,20,0.7,'circInOut')
 	end
-	if curStep == 32 and wasDownScroll then
+	if curStep == 32 and wasDownScroll and not songEnd then
 		noteTweenY('love',4,20,0.7,'circInOut')
 	end
-	if curStep == 36 and wasDownScroll then
+	if curStep == 36 and wasDownScroll and not songEnd then
 		noteTweenY('lovethesequel',5,20,0.7,'circInOut')
 	end
-	if curStep == 41 and wasDownScroll then
+	if curStep == 41 and wasDownScroll and not songEnd then
 		noteTweenY('lovethethird',6,20,0.7,'circInOut')
 	end
-	if curStep == 44 and wasDownScroll then
-		noteTweenY('kivethefinal',7,20,0.7,'circInOut')
+	if curStep == 44 and wasDownScroll and not songEnd then
+		noteTweenY('lovethefinal',7,20,0.7,'circInOut')
 	end
 	if del > 0 then
 		del = del - 1

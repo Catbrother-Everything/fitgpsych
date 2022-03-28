@@ -28,10 +28,10 @@ function onCreate()
 	addLuaSprite('aaron',true);
 	addLuaSprite('block-guy',true);
 	doTweenAlpha('blockGuyDelete', 'block-guy', '0', 0.00000001, 'linear')
-	debugPrint("Aaron order:",getObjectOrder('dadGroup'))
 	setObjectOrder('aaron',7)
 	setObjectOrder('block-guy',8)
 	setObjectOrder('Woah',7)
+	removeLuaSprite('AaronDead',true)
 end
 
 function onStepHit()

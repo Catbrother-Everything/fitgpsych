@@ -13,6 +13,7 @@ local lmao6 = 0
 local lmao7 = 0
 local lmao8 = 0
 local wasDownScroll = false
+local songEnded = false
 
 function onCreate()
 	if downscroll then
@@ -22,23 +23,23 @@ function onCreate()
 end
 
 function onUpdate(elapsed)
-	if curStep == 0 and wasDownScroll then
+	if curStep == 0 and wasDownScroll and not songEnded then
 		noteTweenY('54',2,20,0.7,'circInOut')
 	end
 
-	if curStep == 32 and wasDownScroll then
+	if curStep == 32 and wasDownScroll and not songEnded then
 		noteTweenY('55',0,20,0.7,'circInOut')
 	end
 
-	if curStep == 64 and wasDownScroll then
+	if curStep == 64 and wasDownScroll and not songEnded then
 		noteTweenY('56',3,20,0.7,'circInOut')
 	end
 
-	if curStep == 96 and wasDownScroll then
+	if curStep == 96 and wasDownScroll and not songEnded then
 		noteTweenY('57',1,20,0.7,'circInOut')
 	end
 
-	if curStep == 161 and wasDownScroll then
+	if curStep == 161 and wasDownScroll and not songEnded then
 		noteTweenY('57',4,20,0.7,'circInOut')
 		noteTweenY('58',5,20,0.7,'circInOut')
 		noteTweenY('59',6,20,0.7,'circInOut')
@@ -46,7 +47,7 @@ function onUpdate(elapsed)
 		doTweenY('health', 'camOther', 20, 0.7, 'circInOut')
 	end
 
-	if curStep == 40 then
+	if curStep == 40 and not songEnded then
 		lmao1 = math.random(20,100)
 		lmao2 = math.random(20,100)
 		lmao3 = math.random(20,100)
@@ -57,7 +58,7 @@ function onUpdate(elapsed)
 		lmao8 = math.random(20,100)
 	end
 
-	if confirmRise == false and curStep >= 480 and curStep < 1014 then
+	if confirmRise == false and curStep >= 480 and curStep < 1014 and not songEnded then
 		noteTweenY('4',4,0,0.033,'circInOut')
 		noteTweenY('5',5,0,0.033,'circInOut')
 		noteTweenY('6',6,0,0.033,'circInOut')
@@ -69,7 +70,7 @@ function onUpdate(elapsed)
 		confirmRise = true
 	end
 
-	if confirmRise == true and curStep >= 480 and curStep < 1014 then
+	if confirmRise == true and curStep >= 480 and curStep < 1014 and not songEnded then
 		noteTweenY('12',4,lmao1,0.033,'circInOut')
 		noteTweenY('13',5,lmao2,0.033,'circInOut')
 		noteTweenY('14',6,lmao3,0.033,'circInOut')
@@ -80,4 +81,8 @@ function onUpdate(elapsed)
 		noteTweenY('11',3,lmao8,0.033,'circInOut')
 		confirmRise = false
 	end
+end
+
+function onEndSong()
+	songEnded = true
 end
