@@ -27,7 +27,7 @@ function onCreate()
 	addLuaSprite('Woah', false);
 	addLuaSprite('aaron',true);
 	addLuaSprite('block-guy',true);
-	doTweenAlpha('blockGuyDelete', 'block-guy', '0', 0.00000001, 'linear')
+	doTweenAlpha('blockGuyDelete', 'block-guy', 0, 0.00000001, 'linear')
 	setObjectOrder('aaron',7)
 	setObjectOrder('block-guy',8)
 	setObjectOrder('Woah',7)
@@ -36,9 +36,9 @@ end
 
 function onStepHit()
 	if not altAnim and yougotIt then
-		doTweenAlpha('blockGuyToy', 'block-guy', '0', 0.00000001, 'linear')
-		doTweenAlpha('aaronReturns', 'aaron', '1', 0.00000001, 'linear')
+		doTweenAlpha('blockGuyToy', 'block-guy', 0, 0.00000001, 'linear')
 		triggerEvent('Change Character', 1, 'block-guy');
+		doTweenAlpha('blockGuyReturns', 'dad', 1, 1, 'linear')
 		setProperty('dad.x',fuck)
 		setProperty('dad.y',frick)
 		setObjectOrder('dadGroup',8)
@@ -46,11 +46,11 @@ function onStepHit()
 	end
 		
 	if altAnim and not yougotIt then
-		doTweenAlpha('blockGuyAppears', 'block-guy', '1', 0.000000001, 'linear')
+		doTweenAlpha('blockGuyAppears', 'block-guy', 1, 0.000000001, 'linear')
 		doTweenX('bgX', 'block-guy', fuck, 0.0000000001, 'linear')
 		doTweenY('bgY', 'block-guy', frick, 0.0000000001, 'linear')
-		doTweenAlpha('aaronDelete', 'aaron', '0', 0.00000001, 'linear')
-		doTweenAlpha('blockGuyReturns', 'block-guy', '0', 1, 'linear')
+		doTweenAlpha('aaronDelete', 'aaron', 0, 0.00000001, 'linear')
+		doTweenAlpha('blockGuyReturns', 'block-guy', 0, 1, 'linear')
 		triggerEvent('Change Character', 1, 'aaron');
 		setProperty('dad.x',300)
 		setProperty('dad.y',-20)
@@ -93,6 +93,11 @@ function onUpdate(elapsed)
 		if frick >= 150 then
 			verticalMoment = 0
 		end
+	end
+
+	if curStep == 239 or curStep == 511 or curStep == 767 or curStep == 1055 then
+		doTweenAlpha('aaronReturns', 'aaron', 1, 0.00000001, 'linear')
+		doTweenAlpha('Man', 'dad', 0, 0.00000001, 'linear')
 	end
 end
 
