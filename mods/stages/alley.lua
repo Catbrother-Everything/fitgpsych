@@ -25,48 +25,19 @@ function onCreate()
 		scaleObject('Birds', 0.4, 0.4);
 	end
 
-	if not lowQuality then
-		makeLuaSprite('BGBuildings', 'alley/BGBuildings', -220, -280);
-		setScrollFactor('BGBuildings', 1.0, 1.0);
-		scaleObject('BGBuildings', 0.7, 0.7);
-	end
-
-	makeLuaSprite('Road', 'alley/Road', -600, -430);
-	setScrollFactor('Road', 1.0, 1.0);
-	scaleObject('Road', 0.9, 0.9);
-
-	makeLuaSprite('Fence', 'alley/Fence', 10, -530);
-	setScrollFactor('Fence', 1.0, 1.0);
-	scaleObject('Fence', 1.1, 1.1);
-
-	makeLuaSprite('Walls', 'alley/Walls', -725, -790);
+	makeLuaSprite('Walls', 'alley/Walls', -725, -860);
 	setScrollFactor('Walls', 1.0, 1.0);
 	scaleObject('Walls', 1.08, 1.08);
 
-	makeLuaSprite('Ground', 'alley/Ground', -563, -520);
+	makeLuaSprite('Ground', 'alley/Ground', -470, -520);
 	setScrollFactor('Ground', 1.0, 1.0);
-	scaleObject('Ground', 1.06, 1.06);
+	scaleObject('Ground', 1.0, 1.0);
 
-	makeLuaSprite('Dumpsters', 'alley/Dumpsters', -350, -475);
-	setScrollFactor('Dumpsters', 1.0, 1.0);
-	scaleObject('Dumpsters', 1.0, 1.0);
-	
-	if not lowQuality then
-		makeLuaSprite('Trash', 'alley/Trash', -300, -440);
-		setScrollFactor('Trash', 1.0, 1.0);
-		scaleObject('Trash', 0.96, 0.96);
-	end
-		
 	addLuaSprite('Sky', false);
 	addLuaSprite('clouds', false);
 	addLuaSprite('Birds', false);
-	addLuaSprite('BGBuildings', false);
-	addLuaSprite('Road', false);
-	addLuaSprite('Fence', false);
 	addLuaSprite('Walls', false);
 	addLuaSprite('Ground', false);
-	addLuaSprite('Dumpsters', false);
-	addLuaSprite('Trash', false);
 end
 
 function onBeatHit()
