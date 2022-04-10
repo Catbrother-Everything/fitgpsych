@@ -47,7 +47,11 @@ end
 
 function onTimerCompleted(tag, loops, loopsLeft)
 	if tag == 'startDialogue' then -- Timer completed, play dialogue
-		startDialogue('dialogue', 'breakfast');
+		if not lowQuality then
+			startDialogue('dialogue', 'breakfast');
+		else
+			startDialogue('dialogue-lq', 'breakfast');
+		end
 	end
 end
 
@@ -76,7 +80,11 @@ function onEndSong()
 		noteTweenAlpha('8', '6', 0, 0.0000001,'linear')
 		noteTweenAlpha('9', '7', 0, 0.0000001,'linear')
 		setProperty('inCutscene', true);
-		startDialogue('post-dialogue', 'breakfast');
+		if not lowQuality then
+			startDialogue('post-dialogue', 'breakfast');
+		else
+			startDialogue('post-dialogue-lq', 'breakfast');
+		end
 		allowEnd = true;
 		return Function_Stop;
 	end

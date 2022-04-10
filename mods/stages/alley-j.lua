@@ -40,10 +40,6 @@ function onCreate()
 		setScrollFactor('clouds', 1.0, 1.0);
 		addAnimationByPrefix('clouds','bop','CloudsIdle',24,false)
 		scaleObject('clouds', 1.1, 1.1);
-	else
-		makeLuaSprite('clouds', 'alley/clouds', -2050, -550);
-		setScrollFactor('clouds', 1.0, 1.0);
-		scaleObject('clouds', 1.1, 1.1);
 	end
 
 	if not lowQuality then
@@ -53,13 +49,13 @@ function onCreate()
 		scaleObject('Birds', 0.4, 0.4);
 	end
 
-	makeLuaSprite('Walls', 'alley/Walls', -725, -790);
+	makeLuaSprite('Walls', 'alley/Walls', -725, -860);
 	setScrollFactor('Walls', 1.0, 1.0);
 	scaleObject('Walls', 1.08, 1.08);
 
-	makeLuaSprite('Ground', 'alley/Ground', -563, -520);
+	makeLuaSprite('Ground', 'alley/Ground', -470, -520);
 	setScrollFactor('Ground', 1.0, 1.0);
-	scaleObject('Ground', 1.06, 1.06);
+	scaleObject('Ground', 1.0, 1.0);
 	
 	addLuaSprite('Skym', false);
 	addLuaSprite('Sky', false);

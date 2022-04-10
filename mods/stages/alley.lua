@@ -12,10 +12,6 @@ function onCreate()
 		setScrollFactor('clouds', 1.0, 1.0);
 		addAnimationByPrefix('clouds','bop','CloudsIdle',24,false)
 		scaleObject('clouds', 1.1, 1.1);
-	else
-		makeLuaSprite('clouds', 'alley/clouds', -2050, -550);
-		setScrollFactor('clouds', 1.0, 1.0);
-		scaleObject('clouds', 1.1, 1.1);
 	end
 
 	if not lowQuality then
