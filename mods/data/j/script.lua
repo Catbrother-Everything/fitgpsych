@@ -17,3 +17,9 @@ function goodNoteHit(d, noteData, noteType, isSustainNote)
 		objectPlayAnimation('Fuck','gun',true)
 	end
 end
+
+function onUpdate(elapsed)
+	if not mustHitSection then
+		doTweenZoom('seven','camGame',1.3,0.01,'linear')
+	end
+end
