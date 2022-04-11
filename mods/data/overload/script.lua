@@ -20,7 +20,7 @@ function onCreate()
 	setProperty('dad.y', 90)
 	setProperty('gf.x',350)
 	setProperty('gf.y',80)
-	makeLuaSprite('Woah', 'Woah', 70, 175);
+	makeLuaSprite('Woah', 'Woah', 70, 195);
 	setScrollFactor('Woah', 1.0, 1.0);
 	scaleObject('Woah', 1.0, 1.0);
 

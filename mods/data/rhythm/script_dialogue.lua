@@ -4,7 +4,7 @@ function onStartCountdown()
 	-- Block the first countdown and start a timer of 0.8 seconds to play the dialogue
 	if not allowCountdown and isStoryMode and not seenCutscene then
 		if not lowQuality then
-			makeAnimatedLuaSprite('bg', 'dialogue/dialogueBG_Assets', -305, -100);
+			makeAnimatedLuaSprite('bg', 'dialogue/dialogueBG_Assets', -305, -150);
 			addAnimationByPrefix('bg','studio','week1',24,false)
 			addAnimationByPrefix('bg','alley','week2',24,false)
 			addAnimationByPrefix('bg','jail','week3',24,false)

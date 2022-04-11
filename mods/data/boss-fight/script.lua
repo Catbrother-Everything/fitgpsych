@@ -1,9 +1,6 @@
 function onCreate()
-	setProperty('dad.x',200)
-	setProperty('dad.y',150)
-
-	setProperty('gf.x',350)
-	setProperty('gf.y',80)
+	setProperty('dad.x',80)
+	setProperty('dad.y',180)
 end
 
 function onUpdate(elapsed)
@@ -16,8 +13,6 @@ function onUpdate(elapsed)
 	end
 
 	if curStep == 400 then
-		setProperty('gf.x',350);
-		setProperty('gf.y',80);
 		doTweenAlpha('1','camHUD',1,0.5,'linear')
 	end
 end

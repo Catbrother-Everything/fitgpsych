@@ -1,4 +1,4 @@
 function onCreate()
-	setProperty('dad.x',40)
-	setProperty('dad.y',-55)
+	setProperty('dad.x',-126)
+	setProperty('dad.y',-15)
 end

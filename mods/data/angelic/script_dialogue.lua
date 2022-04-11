@@ -5,7 +5,7 @@ function onStartCountdown()
 	-- Block the first countdown and start a timer of 0.8 seconds to play the dialogue
 	if not allowCountdown and isStoryMode and not seenCutscene then
 		if not lowQuality then
-			makeAnimatedLuaSprite('bg', 'dialogue/dialogueBG_Assets', -305, -100);
+			makeAnimatedLuaSprite('bg', 'dialogue/dialogueBG_Assets', -305, -150);
 			addAnimationByPrefix('bg','studio','week1',24,false)
 			addAnimationByPrefix('bg','alley','week2',24,false)
 			addAnimationByPrefix('bg','jail','week3',24,false)
@@ -70,7 +70,7 @@ end
 function onEndSong()
 	if not allowEnd and isStoryMode then
 		lineCount = 12
-		doTweenAlpha('1', 'bg', 1, 0.000000001, 'linear')
+		doTweenAlpha('1frcuffjk', 'bg', 1, 0.000000001, 'linear')
 		noteTweenAlpha('2', '0', 0, 0.0000001,'linear')
 		noteTweenAlpha('3', '1', 0, 0.0000001,'linear')
 		noteTweenAlpha('4', '2', 0, 0.0000001,'linear')

@@ -18,10 +18,15 @@ function onUpdate(elapsed)
 	freak = getProperty('boyfriend.y')
 
 	if curStep == 12 then
-		noteTweenAlpha('fuck1','0',0,0.5,'linear')
-		noteTweenAlpha('fuck2','1',0,0.6,'linear')
-		noteTweenAlpha('fuck3','2',0,0.7,'linear')
-		noteTweenAlpha('fuck4','3',0,0.8,'linear')
+		doTweenAlpha('1','healthBar',0,0.2,'linear')
+		doTweenAlpha('2','timeBar',0,0.2,'linear')
+		doTweenAlpha('5','timeTxt',0,0.2,'linear')
+		doTweenAlpha('3','iconP2',0,0.2,'linear')
+		doTweenAlpha('4','iconP1',0,0.2,'linear')
+		noteTweenAlpha('fuck1','0',0,0.2,'linear')
+		noteTweenAlpha('fuck2','1',0,0.3,'linear')
+		noteTweenAlpha('fuck3','2',0,0.4,'linear')	
+		noteTweenAlpha('fuck4','3',0,0.5,'linear')
 	end
 
 	if horizontalMoment == 0 then

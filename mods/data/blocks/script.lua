@@ -16,7 +16,7 @@ function onCreate()
 	scaleObject('Woah', 1.0, 1.0);
 
 	addLuaSprite('Woah', false);
-	setObjectOrder('Woah',6)
+	setObjectOrder('Woah',7)
 end
 
 function onUpdate(elapsed)

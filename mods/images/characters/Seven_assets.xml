@@ -50,6 +50,25 @@
 	<SubTexture name="Seven Cough0005" x="2852" y="812" width="461" height="792"/>
 	<SubTexture name="Seven Cough0006" x="2852" y="1614" width="461" height="792"/>
 	<SubTexture name="Seven Cough0007" x="2852" y="2416" width="461" height="792"/>
+	<SubTexture name="Seven Cough0008" x="2852" y="2416" width="461" height="792"/>
+	<SubTexture name="Seven Cough0009" x="2852" y="2416" width="461" height="792"/>
+	<SubTexture name="Seven Cough0010" x="2852" y="2416" width="461" height="792"/>
+	<SubTexture name="Seven Cough0011" x="2852" y="2416" width="461" height="792"/>
+	<SubTexture name="Seven Cough0012" x="2852" y="2416" width="461" height="792"/>
+	<SubTexture name="Seven Cough0013" x="2852" y="2416" width="461" height="792"/>
+	<SubTexture name="Seven Cough0014" x="2852" y="2416" width="461" height="792"/>
+	<SubTexture name="Seven Cough0015" x="2852" y="2416" width="461" height="792"/>
+	<SubTexture name="Seven Cough0016" x="2852" y="2416" width="461" height="792"/>
+	<SubTexture name="Seven Cough0017" x="2852" y="2416" width="461" height="792"/>
+	<SubTexture name="Seven Cough0018" x="2852" y="2416" width="461" height="792"/>
+	<SubTexture name="Seven Cough0019" x="2852" y="2416" width="461" height="792"/>
+	<SubTexture name="Seven Cough0020" x="2852" y="2416" width="461" height="792"/>
+	<SubTexture name="Seven Cough0021" x="2852" y="2416" width="461" height="792"/>
+	<SubTexture name="Seven Cough0022" x="2852" y="2416" width="461" height="792"/>
+	<SubTexture name="Seven Cough0023" x="2852" y="2416" width="461" height="792"/>
+	<SubTexture name="Seven Cough0024" x="2852" y="2416" width="461" height="792"/>
+	<SubTexture name="Seven Cough0025" x="2852" y="2416" width="461" height="792"/>
+	<SubTexture name="Seven Cough0026" x="2852" y="2416" width="461" height="792"/>
 	<SubTexture name="Seven Down0000" x="10" y="5302" width="594" height="872" pivotX="0" pivotY="0"/>
 	<SubTexture name="Seven Down0001" x="10" y="5302" width="594" height="872"/>
 	<SubTexture name="Seven Down0002" x="10" y="6184" width="594" height="872"/>
@@ -189,6 +208,9 @@
 	<SubTexture name="Seven Ugh0021" x="3729" y="2554" width="400" height="838"/>
 	<SubTexture name="Seven Ugh0022" x="3729" y="2554" width="400" height="838"/>
 	<SubTexture name="Seven Ugh0023" x="3729" y="2554" width="400" height="838"/>
+	<SubTexture name="Seven Ugh0024" x="3729" y="2554" width="400" height="838"/>
+	<SubTexture name="Seven Ugh0025" x="3729" y="2554" width="400" height="838"/>
+	<SubTexture name="Seven Ugh0026" x="3729" y="2554" width="400" height="838"/>
 	<SubTexture name="Seven Up0000" x="10" y="3538" width="594" height="872" pivotX="0" pivotY="0"/>
 	<SubTexture name="Seven Up0001" x="10" y="3538" width="594" height="872"/>
 	<SubTexture name="Seven Up0002" x="10" y="4420" width="594" height="872"/>

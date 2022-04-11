@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				206,
+				72
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Aaron falls apart"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AaronFallsApart",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "aaron",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		75
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
