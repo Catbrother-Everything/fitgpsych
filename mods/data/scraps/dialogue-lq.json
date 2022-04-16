@@ -1,6 +1,27 @@
 {
 	"dialogue": [
 		{
+			"expression": "exist",
+			"text": "Hello, it seems you're using low quality setting.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "exist",
+			"text": "Due to optimization concerns in week 2, every dialogue in this setting will have a single portrait for each character.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "exist",
+			"text": "We hope you can understand, have fun.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
 			"expression": "nathan",
 			"text": "Hey, you two okay?",
 			"boxState": "normal",

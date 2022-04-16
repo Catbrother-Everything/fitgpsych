@@ -57,7 +57,7 @@ end
 -- Dialogue (When a dialogue is finished, it calls startCountdown again)
 function onNextDialogue(count)
 	lineCount = lineCount + 1
-	if lineCount == 16 then
+	if lineCount == 16 and not lowQuality then
 		doTweenAlpha('1', 'bg', 0, 0.8, 'linear')
 	end
 end
