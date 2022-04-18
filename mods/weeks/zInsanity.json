@@ -92,7 +92,7 @@
 		]
 	],
 	"hiddenUntilUnlocked": false,
-	"hideFreeplay": true,
+	"hideFreeplay": false,
 	"weekBackground": "insanity",
 	"difficulties": "Insanity",
 	"weekCharacters": [

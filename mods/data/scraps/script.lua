@@ -22,6 +22,14 @@ function goodNoteHit(d, noteData, noteType, isSustainNote)
 end
 
 function opponentNoteHit()
-	setProperty('health',getProperty('health') - 0.01)
-	triggerEvent('Screen Shake','0.080,0.0041','0.080,0.0021')
+	if week == 'Studios2' then
+		setProperty('health',getProperty('health') - 0.01)
+		triggerEvent('Screen Shake','0.080,0.0041','0.080,0.0021')
+	end
+	if week == 'zInsanity' then
+	    if getProperty('health') > 0.05 then
+			setProperty('health',getProperty('health') - 0.04)
+		end
+		triggerEvent('Screen Shake','0.090,0.0051','0.090,0.0035')
+	end
 end
