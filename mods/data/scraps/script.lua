@@ -27,7 +27,7 @@ function opponentNoteHit()
 		triggerEvent('Screen Shake','0.080,0.0041','0.080,0.0021')
 	end
 	if week == 'zInsanity' then
-	    if getProperty('health') > 0.05 then
+	    if getProperty('health') > 0.08 then
 			setProperty('health',getProperty('health') - 0.03)
 		end
 		triggerEvent('Screen Shake','0.090,0.0051','0.090,0.0035')
