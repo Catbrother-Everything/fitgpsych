@@ -15,7 +15,7 @@ function onCreate()
 		scaleObject('Skyr', 1.0, 1.0);
 	end
 
-	makeLuaSprite('Skym', 'alley/Sky_middle', -520, -425);
+	makeLuaSprite('Skym', 'alley/Sky_middle', -520, -205);
 	setScrollFactor('Skym', 0, 0);
 	scaleObject('Skym', 1.0, 1.0);
 

@@ -20,6 +20,6 @@ end
 
 function onUpdate(elapsed)
 	if not mustHitSection then
-		doTweenZoom('seven','camGame',1.3,0.01,'linear')
+		doTweenZoom('seven','camGame',1.02,0.3,'linear')
 	end
 end
