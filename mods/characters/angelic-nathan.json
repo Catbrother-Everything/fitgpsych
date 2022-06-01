@@ -1,110 +1,110 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				269,
 				-144
 			],
-			"loop": false,
-			"anim": "singLEFT",
 			"fps": 24,
-			"name": "NathanLeft",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "NathanLeft"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-78,
 				-106
 			],
-			"loop": false,
-			"anim": "singDOWN",
 			"fps": 24,
-			"name": "NathanDown",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "NathanDown"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-122,
 				40
 			],
-			"loop": false,
-			"anim": "singUP",
 			"fps": 24,
-			"name": "NathanUp",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "NathanUp"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-95,
 				-105
 			],
-			"loop": false,
-			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "NathanRight",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "NathanRight"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"anim": "idle",
 			"fps": 24,
-			"name": "NathanIdle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "NathanIdle"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-122,
 				27
 			],
-			"loop": false,
-			"anim": "singUP-alt",
 			"fps": 24,
-			"name": "NathanGuitarUp",
-			"indices": []
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "NathanGuitarUp"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-79,
 				-101
 			],
-			"loop": false,
-			"anim": "singDOWN-alt",
 			"fps": 24,
-			"name": "NathanGuitarDown",
-			"indices": []
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "NathanGuitarDown"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				251,
 				-151
 			],
-			"loop": false,
-			"anim": "singLEFT-alt",
 			"fps": 24,
-			"name": "NathanGuitarLeft",
-			"indices": []
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "NathanGuitarLeft"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-130,
 				-134
 			],
-			"loop": false,
-			"anim": "singRIGHT-alt",
 			"fps": 24,
-			"name": "NathanGuitarRight",
-			"indices": []
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "NathanGuitarRight"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/Angelic_Nathan",
 	"position": [
-		0,
-		0
+		30,
+		-90
 	],
 	"healthicon": "nathan",
 	"flip_x": false,

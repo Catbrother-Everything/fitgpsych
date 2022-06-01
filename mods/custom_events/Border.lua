@@ -1,0 +1,15 @@
+-- Event notes hooks
+--function onEvent(name, value1, value2)
+	--if name == 'Border' then
+		--duration = tonumber(value1);
+		--if duration < 0 then
+			--duration = 0;
+		--end
+
+		--targetAlpha = tonumber(value2);
+		--doTweenAlpha('blackbarfadein', 'black border bottom', targetAlpha, duration, 'linear');
+		--doTweenY('gooMove','black border bottom',-50,18,'linear')
+		----removeLuaSprite('black border bottom')
+		--debugPrint('Event triggered: ', name, duration, targetAlpha);
+	--end
+--end
