@@ -11,11 +11,11 @@ function onCreate()
 		scaleObject('clouds', 1.0, 1.0);
 	end
 
-	makeLuaSprite('Walls', 'alley/Walls', -505, -740);
-	setScrollFactor('Walls', 0.92, 1.0);
-	scaleObject('Walls', 1.0, 1.0);
+	makeLuaSprite('Walls', 'alley/Walls', -585, -740);
+	setScrollFactor('Walls', 1.0, 1.0);
+	scaleObject('Walls', 1.01, 1.0);
 
-	makeLuaSprite('Ground', 'alley/Ground', -350, -470);
+	makeLuaSprite('Ground', 'alley/Ground', -500, -470);
 	setScrollFactor('Ground', 1.0, 1.0);
 	scaleObject('Ground', 0.98, 0.98);
 
