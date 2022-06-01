@@ -16,6 +16,12 @@ function onCreate()
 	--debugPrint('Script started!')
 end
 
+function goodNoteHit(id, noteData, noteType, isSustainNote)
+	if noteType == 'Warning Note' then
+		characterPlayAnim('boyfriend', 'dodge', false)
+	end
+end
+
 function noteMiss(id, noteData, noteType, isSustainNote)
 	if noteType == 'Warning Note' then
 		risingDamage = risingDamage + 0.075
