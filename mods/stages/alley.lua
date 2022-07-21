@@ -11,6 +11,10 @@ function onCreate()
 		scaleObject('clouds', 1.0, 1.0);
 	end
 
+	makeLuaSprite('L', 'alley/Road_and_Buildings', -585, -740);
+	setScrollFactor('L', 1.0, 1.0);
+	scaleObject('L', 1.01, 1.0);
+
 	makeLuaSprite('Walls', 'alley/Walls', -585, -740);
 	setScrollFactor('Walls', 1.0, 1.0);
 	scaleObject('Walls', 1.01, 1.0);
@@ -21,8 +25,10 @@ function onCreate()
 
 	addLuaSprite('Sky', false);
 	addLuaSprite('clouds', false);
+	addLuaSprite('L', false);
 	addLuaSprite('Walls', false);
 	addLuaSprite('Ground', false);
+	addLuaSprite('Blood', false);
 end
 
 function onBeatHit()

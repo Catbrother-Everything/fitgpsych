@@ -30,6 +30,17 @@ function onCreate()
 		scaleObject('clouds', 1.0, 1.0);
 	end
 
+	makeLuaSprite('L', 'alley/Road_and_Buildings', -585, -740);
+	setScrollFactor('L', 1.0, 1.0);
+	scaleObject('L', 1.01, 1.0);
+
+	if songName == 'Angelic' or songName == 'Angelic The Second' then
+		makeAnimatedLuaSprite('queer', 'alley/bgQueers', 420, -400);
+		setScrollFactor('queer', 1.0, 1.0);
+		addAnimationByPrefix('queer','bop','Dance',24,false)
+		scaleObject('quuer', 0.7, 0.7);
+	end
+
 	makeLuaSprite('Walls', 'alley/Walls', -585, -740);
 	setScrollFactor('Walls', 1.0, 1.0);
 	scaleObject('Walls', 1.01, 1.0);
@@ -37,17 +48,21 @@ function onCreate()
 	makeLuaSprite('Ground', 'alley/Ground', -500, -470);
 	setScrollFactor('Ground', 1.0, 1.0);
 	scaleObject('Ground', 0.98, 0.98);
-	
+
+	makeLuaSprite('Blood', 'alley/bloodsplatter', 400, 540);
+	setScrollFactor('Blood', 1.0, 1.0);
+	scaleObject('Blood', 0.9, 0.9);
+
+	addLuaSprite('Skyg', false);
+	addLuaSprite('Skyr', false);
 	addLuaSprite('Skym', false);
 	addLuaSprite('Sky', false);
 	addLuaSprite('clouds', false);
-	addLuaSprite('BGBuildings', false);
-	addLuaSprite('Road', false);
-	addLuaSprite('Fence', false);
+	addLuaSprite('L', false);
+	addLuaSprite('queer', false);
 	addLuaSprite('Walls', false);
 	addLuaSprite('Ground', false);
-	addLuaSprite('Dumpsters', false);
-	addLuaSprite('Trash', false);
+	addLuaSprite('Blood', false);
 end
 
 function onUpdate(elapsed)
@@ -62,4 +77,5 @@ end
 
 function onBeatHit()
 	objectPlayAnimation('clouds','bop',false)
+	objectPlayAnimation('queer','bop',false)
 end
