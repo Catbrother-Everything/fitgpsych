@@ -47,9 +47,9 @@ end
 function onTimerCompleted(tag, loops, loopsLeft)
 	if tag == 'startDialogue' then -- Timer completed, play dialogue
 		if not lowQuality then
-			startDialogue('dialogue', 'Menancing_Piano');
+			startDialogue('dialogue', 'Menacing_Piano');
 		else
-			startDialogue('dialogue-lq', 'Menancing_Piano');
+			startDialogue('dialogue-lq', 'Menacing_Piano');
 		end
 	end
 end

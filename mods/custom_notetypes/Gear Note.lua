@@ -1,3 +1,5 @@
+local lastNote = {0,0,'',0}
+
 function onCreate()
 	for i = 0, getProperty('unspawnNotes.length')-1 do
 		--Check if the note is an Instakill Note
@@ -12,6 +14,10 @@ function onCreate()
 			end
 		end
 	end		
+	makeLuaText('ratings', 'RATINGS DONT WORK IN THIS SONG!', 500, 880, 690)
+    setTextSize('ratings', 16)
+    addLuaText('ratings')
+    setObjectCamera('ratings', 'camHUD')
 end
 
 -- Function called when you hit a note (after note hit calculations)
@@ -25,12 +31,18 @@ function goodNoteHit(id, noteData, noteType, isSustainNote)
 	end
 end
 
-function noteMiss(id, noteData, noteType, isSustainNote)
+function noteMiss(id,noteData, noteType, isSustainNote)
 	if noteType == 'Gear Note' and getProperty('songSpeed') > 1.5 then
 		setProperty('songSpeed',getProperty('songSpeed') - 0.2)
 	end
 	if noteType == 'Gear Note' then
 		setProperty('songMisses', getProperty('songMisses') - 1)
 		setProperty('songScore', getProperty('songScore') + 10)
+		characterPlayAnim('boyfriend', 'idle', false)
 	end
+end
+
+function onUpdate()
+    setProperty('ratingPercent', 1)
+    setProperty('ratingString', 'Not available for this song')
 end
