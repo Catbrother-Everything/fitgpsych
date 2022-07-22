@@ -55,7 +55,7 @@ function onEndSong()
 		noteTweenAlpha('8', '6', 0, 0.0000001,'linear')
 		noteTweenAlpha('9', '7', 0, 0.0000001,'linear')
 		setProperty('inCutscene', true);
-		startDialogue('post-dialogue', 'breakfast');
+		startDialogue('post-dialogue', 'Shards');
 		allowEnd = true;
 		return Function_Stop;
 	end

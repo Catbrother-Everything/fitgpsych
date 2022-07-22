@@ -71,7 +71,7 @@ function onEndSong()
 		noteTweenAlpha('8', '6', 0, 0.0000001,'linear')
 		noteTweenAlpha('9', '7', 0, 0.0000001,'linear')
 		setProperty('inCutscene', true);
-		startDialogue('post-dialogue', 'breakfast');
+		startDialogue('post-dialogue', 'Several_Dozen_Hate_Crimes_With_A_Felony_On_The_Side');
 		allowEnd = true;
 		return Function_Stop;
 	end

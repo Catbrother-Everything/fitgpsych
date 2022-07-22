@@ -81,9 +81,9 @@ function onEndSong()
 		noteTweenAlpha('9', '7', 0, 0.0000001,'linear')
 		setProperty('inCutscene', true);
 		if not lowQuality then
-			startDialogue('post-dialogue', 'breakfast');
+			startDialogue('post-dialogue', 'Finale_Like_UNDERTALE');
 		else
-			startDialogue('post-dialogue-lq', 'breakfast');
+			startDialogue('post-dialogue-lq', 'Finale_Like_UNDERTALE');
 		end
 		allowEnd = true;
 		return Function_Stop;
