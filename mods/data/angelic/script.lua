@@ -1,4 +1,7 @@
 function onCreate()
+    setProperty('dad.x',0)
+	setProperty('dad.y',-550)
+    
 	makeLuaSprite('blackBorderBottom', 'black border', 0, 0);
 	scaleObject('blackBorderBottom', 5, 0.9);
 	setObjectCamera('blackBorderBottom', 'other')

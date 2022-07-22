@@ -1,114 +1,114 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				72,
 				21
 			],
-			"loop": false,
-			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Seven Left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Seven Left"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				60,
 				3
 			],
-			"loop": false,
-			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Seven Down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Seven Down"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				82,
 				17
 			],
-			"loop": false,
-			"anim": "singUP",
 			"fps": 24,
-			"name": "Seven Up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "Seven Up"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				74,
 				-9
 			],
-			"loop": false,
-			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Seven Right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Seven Right"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"anim": "idle",
 			"fps": 24,
-			"name": "Seven Idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "Seven Idle"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				46,
 				16
 			],
-			"loop": false,
-			"anim": "singALRIGHT",
 			"fps": 24,
-			"name": "Seven Alright",
-			"indices": []
+			"anim": "singALRIGHT",
+			"indices": [],
+			"name": "Seven Alright"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				10,
 				-30
 			],
-			"loop": false,
-			"anim": "singCOUGH",
 			"fps": 24,
-			"name": "Seven Cough",
-			"indices": []
+			"anim": "singCOUGH",
+			"indices": [],
+			"name": "Seven Cough"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				25,
 				-3
 			],
-			"loop": false,
-			"anim": "singLESSGO",
 			"fps": 24,
-			"name": "Seven Less Go",
-			"indices": []
+			"anim": "singLESSGO",
+			"indices": [],
+			"name": "Seven Less Go"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				90,
 				3
 			],
-			"loop": false,
-			"anim": "singDOTHIS",
 			"fps": 24,
-			"name": "Seven Lets Do This!",
-			"indices": []
+			"anim": "singDOTHIS",
+			"indices": [],
+			"name": "Seven Lets Do This!"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-16,
 				4
 			],
-			"loop": false,
-			"anim": "singUGH",
 			"fps": 24,
-			"name": "Seven Ugh",
-			"indices": []
+			"anim": "singUGH",
+			"indices": [],
+			"name": "Seven Ugh"
 		}
 	],
 	"no_antialiasing": false,
@@ -120,9 +120,9 @@
 	"healthicon": "seven",
 	"flip_x": false,
 	"healthbar_colors": [
-		155,
-		102,
-		186
+		169,
+		71,
+		255
 	],
 	"camera_position": [
 		0,

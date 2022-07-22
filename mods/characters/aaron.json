@@ -1,103 +1,103 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				103,
 				-79
 			],
-			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "AaronLeft",
-			"indices": []
+			"indices": [],
+			"name": "AaronLeft"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				226,
 				-265
 			],
-			"loop": false,
-			"anim": "singDOWN",
 			"fps": 24,
-			"name": "AaronDown",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "AaronDown"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				199,
 				66
 			],
-			"loop": false,
-			"anim": "singUP",
 			"fps": 24,
-			"name": "AaronUp",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "AaronUp"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				6,
 				-111
 			],
-			"loop": false,
-			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "AaronRight",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "AaronRight"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				103,
 				-79
 			],
-			"loop": false,
-			"anim": "singLEFT-alt",
 			"fps": 24,
-			"name": "AaronLeft",
-			"indices": []
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "AaronLeft"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				226,
 				-265
 			],
-			"loop": false,
-			"anim": "singDOWN-alt",
 			"fps": 24,
-			"name": "AaronDown",
-			"indices": []
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "AaronDown"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				199,
 				66
 			],
-			"loop": false,
-			"anim": "singUP-alt",
 			"fps": 24,
-			"name": "AaronUp",
-			"indices": []
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "AaronUp"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				6,
 				-111
 			],
-			"loop": false,
-			"anim": "singRIGHT-alt",
 			"fps": 24,
-			"name": "AaronRight",
-			"indices": []
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "AaronRight"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"anim": "idle",
 			"fps": 24,
-			"name": "AaronIdle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "AaronIdle"
 		}
 	],
 	"no_antialiasing": false,
@@ -110,8 +110,8 @@
 	"flip_x": false,
 	"healthbar_colors": [
 		255,
-		255,
-		75
+		213,
+		82
 	],
 	"camera_position": [
 		-150,

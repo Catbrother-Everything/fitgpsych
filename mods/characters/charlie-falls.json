@@ -1,15 +1,15 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				7,
 				8
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "Charlie go sleep"
+			"fps": 24,
+			"name": "Charlie go sleep",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -21,9 +21,9 @@
 	"healthicon": "en-and-charlie",
 	"flip_x": false,
 	"healthbar_colors": [
-		135,
-		60,
-		0
+		255,
+		172,
+		96
 	],
 	"camera_position": [
 		0,

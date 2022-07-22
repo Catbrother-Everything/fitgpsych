@@ -1,15 +1,15 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "MaximusIdle"
+			"fps": 24,
+			"name": "MaximusIdle",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -21,9 +21,9 @@
 	"healthicon": "max",
 	"flip_x": false,
 	"healthbar_colors": [
-		115,
-		60,
-		60
+		129,
+		70,
+		64
 	],
 	"camera_position": [
 		0,

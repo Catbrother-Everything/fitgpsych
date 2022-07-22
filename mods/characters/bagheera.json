@@ -1,26 +1,26 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "BagheeraIdle"
+			"fps": 24,
+			"name": "BagheeraIdle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				34,
 				141
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "BagheeraGuitar"
+			"fps": 24,
+			"name": "BagheeraGuitar",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -32,9 +32,9 @@
 	"healthicon": "max",
 	"flip_x": false,
 	"healthbar_colors": [
-		115,
-		60,
-		60
+		129,
+		70,
+		64
 	],
 	"camera_position": [
 		0,

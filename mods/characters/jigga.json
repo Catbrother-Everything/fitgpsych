@@ -1,114 +1,114 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "",
-			"indices": [],
-			"name": "Idle"
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				1,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "JiggaLeft"
+			"fps": 24,
+			"name": "JiggaLeft",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Idle"
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				81,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "JiggaDown"
+			"fps": 24,
+			"name": "JiggaDown",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				121,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "JiggaUp"
+			"fps": 24,
+			"name": "JiggaUp",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "JiggaRight"
+			"fps": 24,
+			"name": "JiggaRight",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				-2
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "LeftMISS"
+			"fps": 24,
+			"name": "LeftMISS",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				98,
 				-2
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "DownMISS"
+			"fps": 24,
+			"name": "DownMISS",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				83,
 				-2
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUPmiss",
-			"indices": [],
-			"name": "UpMISS"
+			"fps": 24,
+			"name": "UpMISS",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				-2
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "RightMISS"
+			"fps": 24,
+			"name": "RightMISS",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -120,9 +120,9 @@
 	"healthicon": "jigga",
 	"flip_x": false,
 	"healthbar_colors": [
-		120,
-		176,
-		209
+		125,
+		161,
+		255
 	],
 	"camera_position": [
 		0,

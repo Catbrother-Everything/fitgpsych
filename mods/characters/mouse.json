@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "mouse idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "mouse idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				3,
 				0
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "mouse left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mouse left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-1,
 				0
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "mouse down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mouse down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				3,
 				0
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "mouse up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "mouse up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-27,
 				0
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "mouse right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mouse right"
 		}
 	],
 	"no_antialiasing": false,
@@ -65,9 +65,9 @@
 	"healthicon": "mouse",
 	"flip_x": false,
 	"healthbar_colors": [
-		155,
+		143,
 		255,
-		195
+		199
 	],
 	"camera_position": [
 		0,

@@ -1,103 +1,103 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				13,
 				5
 			],
-			"loop": false,
-			"anim": "singLEFT",
 			"fps": 24,
-			"name": "En Left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "En Left"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				17
 			],
-			"loop": false,
-			"anim": "singDOWN",
 			"fps": 24,
-			"name": "En Down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "En Down"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				11,
 				17
 			],
-			"loop": false,
-			"anim": "singUP",
 			"fps": 24,
-			"name": "En Up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "En Up"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-28,
 				12
 			],
-			"loop": false,
-			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "En Right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "En Right"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				1,
 				-1
 			],
-			"loop": false,
-			"anim": "idle",
 			"fps": 24,
-			"name": "Duet Idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "Duet Idle"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-137,
 				24
 			],
-			"loop": false,
-			"anim": "singLEFT-alt",
 			"fps": 24,
-			"name": "Charlie Left",
-			"indices": []
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Charlie Left"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-139,
 				21
 			],
-			"loop": false,
-			"anim": "singDOWN-alt",
 			"fps": 24,
-			"name": "Charlie Down",
-			"indices": []
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Charlie Down"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-138,
 				21
 			],
-			"loop": false,
-			"anim": "singUP-alt",
 			"fps": 24,
-			"name": "Charlie Up",
-			"indices": []
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Charlie Up"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-134,
 				21
 			],
-			"loop": false,
-			"anim": "singRIGHT-alt",
 			"fps": 24,
-			"name": "Charlie Right",
-			"indices": []
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Charlie Right"
 		}
 	],
 	"no_antialiasing": false,
@@ -109,9 +109,9 @@
 	"healthicon": "en-and-charlie",
 	"flip_x": false,
 	"healthbar_colors": [
-		135,
-		60,
-		0
+		87,
+		164,
+		255
 	],
 	"camera_position": [
 		0,

@@ -1,136 +1,136 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				19,
 				24
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "NovaLeft"
+			"fps": 24,
+			"name": "NovaLeft",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-30,
 				0
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "NovaDown"
+			"fps": 24,
+			"name": "NovaDown",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-31,
 				-2
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singUP",
-			"indices": [],
-			"name": "NovaUp"
+			"fps": 24,
+			"name": "NovaUp",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-14,
 				-20
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "NovaRight"
+			"fps": 24,
+			"name": "NovaRight",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "idle",
-			"indices": [],
-			"name": "NovaIdle"
+			"fps": 24,
+			"name": "NovaIdle",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFTmiss",
-			"fps": 24,
-			"name": "NovaMissLeft",
-			"indices": []
+			"indices": [],
+			"name": "NovaMissLeft"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWNmiss",
-			"fps": 24,
-			"name": "NovaMissDown",
-			"indices": []
+			"indices": [],
+			"name": "NovaMissDown"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUPmiss",
-			"fps": 24,
-			"name": "NovaMissUp",
-			"indices": []
+			"indices": [],
+			"name": "NovaMissUp"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "singRIGHTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "NovaMissRight",
-			"indices": []
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "NovaMissRight"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-107,
 				-60
 			],
-			"anim": "deathLoop",
+			"loop": false,
 			"fps": 24,
-			"name": "NovaDeadLoop",
-			"indices": []
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "NovaDeadLoop"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-30,
 				30
 			],
-			"anim": "deathConfirm",
+			"loop": false,
 			"fps": 24,
-			"name": "NovaDeadConfirm",
-			"indices": []
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "NovaDeadConfirm"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-117,
 				-68
 			],
-			"anim": "firstDeath",
+			"loop": false,
 			"fps": 24,
-			"name": "NovaDIes",
-			"indices": []
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "NovaDIes"
 		}
 	],
 	"no_antialiasing": false,
@@ -142,9 +142,9 @@
 	"healthicon": "nova",
 	"flip_x": false,
 	"healthbar_colors": [
-		175,
-		102,
-		206
+		182,
+		91,
+		255
 	],
 	"camera_position": [
 		200,

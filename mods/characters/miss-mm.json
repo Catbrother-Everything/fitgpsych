@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "miss idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "miss idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				13,
 				9
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "miss left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "miss left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-3,
 				8
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "miss down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "miss down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-10,
 				11
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "miss up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "miss up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-13,
 				7
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "miss right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "miss right"
 		}
 	],
 	"no_antialiasing": false,
@@ -66,8 +66,8 @@
 	"flip_x": false,
 	"healthbar_colors": [
 		255,
-		175,
-		106
+		166,
+		90
 	],
 	"camera_position": [
 		0,

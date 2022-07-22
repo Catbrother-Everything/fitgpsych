@@ -3,13 +3,13 @@ local birdY = math.random(-100, -250);
 
 function onCreate()
 	-- background shit
-	if not lowQuality or songName == 'J' then
+	if songName == 'J' or songName == 'UNDERSWAP' then
 		makeLuaSprite('Skyg', 'alley/Sky_galaxy', -600, -3750);
 		setScrollFactor('Skyg', 1.0, 1.0);
 		scaleObject('Skyg', 1.0, 1.0);
 	end
 
-	if not lowQuality or songName == 'J' then
+	if songName == 'J' or songName == 'UNDERSWAP' then
 		makeLuaSprite('Skyr', 'alley/Sky_reaching_galaxy', -600, -2670);
 		setScrollFactor('Skyr', 1.0, 1.0);
 		scaleObject('Skyr', 1.0, 1.0);
@@ -53,9 +53,9 @@ function onCreate()
 	setScrollFactor('Blood', 1.0, 1.0);
 	scaleObject('Blood', 0.9, 0.9);
 
-	addLuaSprite('Skyg', false);
-	addLuaSprite('Skyr', false);
 	addLuaSprite('Skym', false);
+	addLuaSprite('Skyr', false);
+	addLuaSprite('Skyg', false);
 	addLuaSprite('Sky', false);
 	addLuaSprite('clouds', false);
 	addLuaSprite('L', false);

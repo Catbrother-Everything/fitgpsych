@@ -1,15 +1,15 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				206,
 				72
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "Aaron falls apart"
+			"fps": 24,
+			"name": "Aaron falls apart",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -22,8 +22,8 @@
 	"flip_x": false,
 	"healthbar_colors": [
 		255,
-		255,
-		75
+		213,
+		82
 	],
 	"camera_position": [
 		0,
