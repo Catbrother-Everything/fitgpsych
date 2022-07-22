@@ -48,9 +48,9 @@ end
 function onTimerCompleted(tag, loops, loopsLeft)
 	if tag == 'startDialogue' then -- Timer completed, play dialogue
 		if not lowQuality then
-			startDialogue('dialogue', 'breakfast');
+			startDialogue('dialogue', 'Finale_Like_UNDERTALE');
 		else
-			startDialogue('dialogue-lq', 'breakfast');
+			startDialogue('dialogue-lq', 'Finale_Like_UNDERTALE');
 		end
 	end
 end
