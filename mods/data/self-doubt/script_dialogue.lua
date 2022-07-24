@@ -1,4 +1,5 @@
 local allowCountdown = false
+local acceptedStuff = false
 local lineCount = 0
 function onStartCountdown()
 	-- Block the first countdown and start a timer of 0.8 seconds to play the dialogue
@@ -20,7 +21,28 @@ function onStartCountdown()
 		allowCountdown = true;
 		return Function_Stop;
 	end
+	
+	if not acceptedStuff then
+		makeLuaSprite('hell_nah', 'id/MechanicCard_Jigga', 0, -40);
+		setScrollFactor('hell_nah', 0, 0);
+		scaleObject('hell_nah', 1.1, 1.1);
+		addLuaSprite('hell_nah', true);
+		allowPress = true
+		return Function_Stop;
+	end
 	return Function_Continue;
+end
+
+function onUpdate(elapsed)
+	if not acceptedStuff and allowPress then
+		if keyJustPressed('accept') then
+			acceptedStuff = true;
+			removeLuaSprite('hell_nah', false);
+		end
+	end
+	if acceptedStuff then
+		startCountdown()
+	end
 end
 
 function onTimerCompleted(tag, loops, loopsLeft)

@@ -1,10 +1,8 @@
-local lastNote = {0,0,'',0}
-
 function onCreate()
 	for i = 0, getProperty('unspawnNotes.length')-1 do
 		--Check if the note is an Instakill Note
 		if getPropertyFromGroup('unspawnNotes', i, 'noteType') == 'Gear Note' then
-			setPropertyFromGroup('unspawnNotes', i, 'texture', 'NOTES_plus_gears'); --Change texture
+			setPropertyFromGroup('unspawnNotes', i, 'texture', 'NOTES_gears'); --Change texture
 			setPropertyFromGroup('unspawnNotes', i, 'hitHealth', '0'); --Default value is: 0.023, health gained on hit
 			setPropertyFromGroup('unspawnNotes', i, 'missHealth', '0'); --Default value is: 0.0475, health lost on miss
 			setPropertyFromGroup('unspawnNotes', i, 'hitCausesMiss', false);
@@ -43,6 +41,6 @@ function noteMiss(id,noteData, noteType, isSustainNote)
 end
 
 function onUpdate()
-    setProperty('ratingPercent', 1)
+    setProperty('ratingPercent', 0.07)
     setProperty('ratingString', 'Not available for this song')
 end

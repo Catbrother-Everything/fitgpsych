@@ -1,3 +1,6 @@
+local Freddyg = true
+local L = -1
+
 function onCreate()
 	setProperty('dad.x',0)
 	setProperty('dad.y',-350)
@@ -11,6 +14,14 @@ function onCreate()
 	addLuaSprite('Fuck', false);
 end
 
+function onSongStart()
+    if Freddyg then
+        playSound('Scraps_Voices',1,'cock')
+        setSoundTime('cock', 347)
+        Freddyg = false
+    end
+end
+
 function onBeatHit()
 	objectPlayAnimation('Fuck','bop',false)
 end
@@ -22,14 +33,32 @@ function goodNoteHit(d, noteData, noteType, isSustainNote)
 end
 
 function opponentNoteHit()
-	if week == 'Studios2' then
-		setProperty('health',getProperty('health') - 0.01)
-		triggerEvent('Screen Shake','0.080,0.0041','0.080,0.0021')
+	setProperty('health',getProperty('health') - 0.01)
+	triggerEvent('Screen Shake','0.080,0.0041','0.080,0.0021')
+end
+
+function onUpdate(elapsed)
+	L = L - 1 * elapsed
+    if curStep >= 0 then
+        setProperty('vocals.volume', 0)
+    end
+
+	if L == 0 then
+		setSoundVolume('cock', 1)
 	end
-	if week == 'zInsanity' then
-	    if getProperty('health') > 0.08 then
-			setProperty('health',getProperty('health') - 0.03)
-		end
-		triggerEvent('Screen Shake','0.090,0.0051','0.090,0.0035')
+end
+
+function onPause()
+    pauseSound('cock')
+end
+
+function onResume()
+    resumeSound('cock')
+end
+
+function noteMiss(id, noteData, noteType, isSustainNote)
+	if not noteType == 'Gear Note' then
+		setSoundVolume('cock', 0)
+		L = 1
 	end
 end
