@@ -8,6 +8,7 @@ local pussy = 0
 function onCreate()
 	addCharacterToList('aaron', 'dad')
 	addCharacterToList('block-guy', 'dad')
+	
 	makeAnimatedLuaSprite('aaron','characters/Aaron',300,-20);
 	addAnimationByPrefix('aaron','Idle','AaronIdle',24,false)
 	setScrollFactor('aaron', 1.0, 1.0);
@@ -32,6 +33,13 @@ function onCreate()
 	setObjectOrder('block-guy',8)
 	setObjectOrder('Woah',7)
 	removeLuaSprite('AaronDead',true)
+
+	makeAnimatedLuaSprite('gearsweep', 'insanity/gearsweep', 3000, 50)
+	addAnimationByPrefix('gearsweep', 'gearssweep', 'gearssweep', 24, true)
+	objectPlayAnimation('gearsweep','gearssweep',true)
+	scaleObject('gearsweep', 1.5, 1.5)
+	addLuaSprite('gearsweep', true)
+	setObjectCamera('gearsweep', 'hud')
 end
 
 function onStepHit()
@@ -56,6 +64,8 @@ function onStepHit()
 		setProperty('dad.y',-20)
 		setObjectOrder('dadGroup',7)
 		yougotIt = true
+		doTweenX('gearcomein', 'gearsweep', -800, 0.01, linear)
+		runTimer('gearsweep', 0.1, 1)
 	end
 end
 
@@ -110,4 +120,16 @@ function opponentNoteHit()
 	if altAnim then
 		triggerEvent('Screen Shake','0.080,0.0024','0.080,0.0009')
 	end
+end
+
+function gearSweep()
+    doTweenX('lamo2', 'insanitygearsweep', 1500, 1.5, linear)
+    runTimer('gearsweep', 3, 1)
+	debugPrint('lmao')
+end
+
+function onTimerCompleted(timer, loops, loopsLeft)
+    if timer == 'gearsweep' then
+		doTweenX('geargoout', 'gearsweep', 1500, 1.5, linear)
+    end
 end
