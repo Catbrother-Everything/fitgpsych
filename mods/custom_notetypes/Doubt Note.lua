@@ -13,7 +13,10 @@ function onCreate()
 			end
 		end
 	end
-	--debugPrint('Script started!')
 end
--- Called after the note miss calculations
--- Player missed a note by letting it go offscreen
+
+function noteMiss(id, noteData, noteType, isSustainNote)
+	if noteType == 'Doubt Note' then
+		playSound('panel_admin_carddeny', 1)
+	end
+end

@@ -8,6 +8,7 @@ JustSomeSush::sush::New Main Artist::https://twitter.com/JustSomeSush::0xFF96FF9
 CharlieTsun::charlietsun::Ex-Main Artist::https://twitter.com/CharlieTsun::F87AC1
 Vy::vy::Additional Artist::https://twitter.com/Itz_Vy_::CC99FF
 JiggaOver9000::jiggaover9000::Additional Artist::https://twitter.com/JiggaOver9000::6F6FFF
+Jane_::jane::Additional Artist::https://gamejolt.com/@jane_::00FFE4
 
 FITG - Music
 KamilFirma::kamilfirma::Main Composer::https://twitter.com/KamilFirma::FF1E98

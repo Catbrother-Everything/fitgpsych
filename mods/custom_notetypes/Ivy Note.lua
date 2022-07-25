@@ -25,6 +25,7 @@ function noteMiss(id, noteData, noteType, isSustainNote)
 	if noteType == 'Ivy Note' then
 		ivyLasting = ivyLasting + 5;
 		ivyStrength = ivyStrength + 0.043
+		playSound('Ivy', 1)
 	end
 end
 
@@ -32,6 +33,10 @@ function onUpdate(elapsed)
 	if ivyLasting > 0 then
 		ivyLasting = ivyLasting - 1 * elapsed;
 			setProperty('health', getProperty('health') - ivyStrength * elapsed);
+	end
+
+	if ivyLasting == 0 then
+		ivyStrength = 0
 	end
 end
 
