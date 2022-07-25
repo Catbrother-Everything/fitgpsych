@@ -17,7 +17,7 @@ end
 function onSongStart()
     if Freddyg then
         playSound('Scraps_Voices',1,'cock')
-        setSoundTime('cock', 347)
+        setSoundTime('cock', 240)
         Freddyg = false
     end
 end
