@@ -20,3 +20,23 @@ function noteMiss(id, noteData, noteType, isSustainNote)
 		playSound('panel_admin_carddeny', 0.1)
 	end
 end
+
+function opponentNoteHit(id, noteData, noteType, isSustainNote)
+	if noteType == 'Doubt Note' then
+		if noteData == 0 then
+			characterPlayAnim('dad', 'singLEFTmiss', true)
+		end
+
+		if noteData == 1 then
+			characterPlayAnim('dad', 'singDOWNmiss', true)
+		end
+
+		if noteData == 2 then
+			characterPlayAnim('dad', 'singUPmiss', true)
+		end
+
+		if noteData == 3 then
+			characterPlayAnim('dad', 'singRIGHTmiss', true)
+		end
+	end
+end
