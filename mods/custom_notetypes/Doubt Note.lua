@@ -15,12 +15,6 @@ function onCreate()
 	end
 end
 
-function noteMiss(id, noteData, noteType, isSustainNote)
-	if noteType == 'Doubt Note' then
-		playSound('panel_admin_carddeny', 0.1)
-	end
-end
-
 function opponentNoteHit(id, noteData, noteType, isSustainNote)
 	if noteType == 'Doubt Note' then
 		if noteData == 0 then
