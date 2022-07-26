@@ -1,4 +1,4 @@
-local Freddyg = true
+local Freddyg = false
 local L = -1
 
 function onCreate()
@@ -39,8 +39,8 @@ end
 
 function onUpdate(elapsed)
 	L = L - 1 * elapsed
-    if curStep >= 0 then
-        setProperty('vocals.volume', 0)
+    if curStep == 0 then
+        setProperty('vocals.volume', 1)
     end
 
 	if L == 0 then

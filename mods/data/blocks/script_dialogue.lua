@@ -22,7 +22,7 @@ function onStartCountdown()
 		return Function_Stop;
 	end
 	
-	if not acceptedStuff then
+	if acceptedStuff then
 		makeLuaSprite('hell_nah', 'id/MechanicCard_BlockGuy', 75, 0);
 		setScrollFactor('hell_nah', 0, 0);
 		addLuaSprite('hell_nah', true);
@@ -33,7 +33,7 @@ function onStartCountdown()
 end
 
 function onUpdate(elapsed)
-	if not acceptedStuff and allowPress then
+	if acceptedStuff and allowPress then
 		if keyJustPressed('accept') then
 			acceptedStuff = true;
 			removeLuaSprite('hell_nah', false);
