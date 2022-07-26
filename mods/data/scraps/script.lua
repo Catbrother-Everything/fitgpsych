@@ -62,3 +62,7 @@ function noteMiss(id, noteData, noteType, isSustainNote)
 		L = 1
 	end
 end
+
+function onGameOver()
+	pauseSound('cock')
+end
