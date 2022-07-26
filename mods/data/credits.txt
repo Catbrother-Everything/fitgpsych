@@ -9,6 +9,7 @@ CharlieTsun::charlietsun::Ex-Main Artist::https://twitter.com/CharlieTsun::F87AC
 Vy::vy::Additional Artist::https://twitter.com/Itz_Vy_::CC99FF
 JiggaOver9000::jiggaover9000::Additional Artist::https://twitter.com/JiggaOver9000::6F6FFF
 Jane_::jane::Additional Artist::https://gamejolt.com/@jane_::00FFE4
+Madelynmisericorde::madelynmisericorde::Axolotl And Moths In The Enfield Card::https://www.youtube.com/channel/UC_j4HR38VfLSEmWW-0zg5jA::888888
 
 FITG - Music
 KamilFirma::kamilfirma::Main Composer::https://twitter.com/KamilFirma::FF1E98

@@ -15,7 +15,7 @@ function onCreate()
 	setScrollFactor('Ahhhh', 0.0, 0.0);
 	scaleObject('Ahhhh', 1.0, 1.0);
 	addLuaSprite('Ahhhh', true);
-	setObjectCamera('Ahhhh','camHUD')
+	setObjectCamera('Ahhhh','camOther')
 	doTweenAlpha('1','Ahhhh',0,0.000000001,'linear')
 end
 

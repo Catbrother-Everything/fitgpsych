@@ -34,7 +34,7 @@ function onCreate()
 	setObjectOrder('Woah',7)
 	removeLuaSprite('AaronDead',true)
 
-	makeAnimatedLuaSprite('gearsweep', 'insanity/gearsweep', 3000, 50)
+	makeAnimatedLuaSprite('gearsweep', 'insanity/gearsweep', 3000, 0)
 	addAnimationByPrefix('gearsweep', 'gearssweep', 'gearssweep', 24, true)
 	objectPlayAnimation('gearsweep','gearssweep',true)
 	scaleObject('gearsweep', 1.5, 1.5)
@@ -64,7 +64,7 @@ function onStepHit()
 		setProperty('dad.y',-20)
 		setObjectOrder('dadGroup',7)
 		yougotIt = true
-		doTweenX('gearcomein', 'gearsweep', -800, 0.01, linear)
+		doTweenX('gearcomein', 'gearsweep', -800, 0.005, 'linear')
 		runTimer('gearsweep', 0.1, 1)
 	end
 end
@@ -123,7 +123,7 @@ function opponentNoteHit()
 end
 
 function gearSweep()
-    doTweenX('lamo2', 'insanitygearsweep', 1500, 1.5, linear)
+    doTweenX('lamo2', 'insanitygearsweep', 1500, 0.6, linear)
     runTimer('gearsweep', 3, 1)
 	debugPrint('lmao')
 end

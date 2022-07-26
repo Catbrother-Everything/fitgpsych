@@ -17,6 +17,6 @@ end
 
 function noteMiss(id, noteData, noteType, isSustainNote)
 	if noteType == 'Doubt Note' then
-		playSound('panel_admin_carddeny', 1)
+		playSound('panel_admin_carddeny', 0.1)
 	end
 end
